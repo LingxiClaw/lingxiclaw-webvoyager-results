@@ -1,0 +1,14 @@
+{
+  "task_id": "Huggingface--35",
+  "original_judge_verdict": "success",
+  "review_type": "Supplementary evidence inspection by the preparation assistant; not a replacement judge or independent human review.",
+  "finding": "Source e000022 contains the Diffusion-tagged listing headed by Waypoint-1.5 (2026-04-09); e000023 contains the article introduction. The final answer summarizes those sections and explicitly scopes latest to that tag listing.",
+  "qualification": "The same page also includes community/trending content, including a more recent diffusion-related title. The tagged-list interpretation does not prove newest across every community post. No screenshot was selected because of a stale window-title mismatch.",
+  "treatment": "Keep the archived automated verdict and disclose the interpretation. Do not silently overwrite the score.",
+  "sensitivity_if_not_counted": {
+    "success": 529,
+    "denominator": 615,
+    "percent": 86.01626016260163,
+    "status": "Illustrative sensitivity only; not a new judged result."
+  }
+}

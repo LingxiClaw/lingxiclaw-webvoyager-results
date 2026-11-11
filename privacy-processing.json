@@ -1,0 +1,12 @@
+{
+  "text_transformations": {
+    "jwt": 1412,
+    "local_user": 2857,
+    "account": 1609
+  },
+  "ocr_screenshots_checked": 611,
+  "ocr_errors": 0,
+  "ocr_pattern_findings": "One email match: the public arXiv contact address in ArXiv--22. No local user-path or credential-label matches detected.",
+  "limits": "Pattern scans and OCR are screening tools, not a guarantee that every sensitive visual or text item has been identified.",
+  "original_records": "Unmodified; original-to-public hashes are recorded in lineage.json."
+}

@@ -1,0 +1,261 @@
+{
+  "system": "Lingxi AI Assistant",
+  "organization": "China Mobile (Hangzhou) Information Technology Co., Ltd (中移（杭州）信息技术有限公司)",
+  "run_id": "browser-v2-full-615-macos-20261009T114215Z-10500",
+  "evaluated_at_utc": [
+    "2026-10-09T11:42:15.792807+00:00",
+    "2026-10-09T20:52:26.070681+00:00"
+  ],
+  "judge_at_utc": [
+    "2026-10-10T01:04:15.500613Z",
+    "2026-10-10T02:30:32.832372Z"
+  ],
+  "count": 615,
+  "counts": {
+    "success": 530,
+    "unknown": 22,
+    "failure": 49,
+    "run_error": 12,
+    "judge_error": 2
+  },
+  "success_rate_percent": 86.17886178861788,
+  "score_display": "86.18%",
+  "platform": "macOS-26.4-arm64-arm-64bit",
+  "python": "3.12.13",
+  "execution_model": {
+    "requested": "DeepSeek-V4.1-Flash",
+    "catalog": "Deepseek-V4.1-flash",
+    "catalog_display": "Deepseek-V4.1-Flash(MOMOA)",
+    "worker_alias": "deepseek-v4-flash",
+    "backend_snapshot_verified": false
+  },
+  "judge": {
+    "provider": "ark",
+    "model": "doubao-seed-2-0-pro-260215",
+    "completed": 601,
+    "skipped": 12,
+    "errors": 2,
+    "request_count": "not recorded reliably",
+    "raw_provider_responses": "not recovered"
+  },
+  "diagnostics": {
+    "tasks_without_selected_screenshot": 4,
+    "tasks_without_selected_screenshot_ids": [
+      "GitHub--29",
+      "Google Flights--15",
+      "Huggingface--34",
+      "Huggingface--35"
+    ],
+    "capture_quality_counts": {
+      "unknown": 611,
+      "not_recorded": 2,
+      "unavailable": 2
+    },
+    "old_capture_unavailable": 6,
+    "old_metric_explanation": "The legacy counter adds both missing screenshot paths (4) and quality=unavailable (2) to the same key, producing 6. This correction does not change a judgment or score.",
+    "owner_isolation_unconfirmed": 0
+  },
+  "budget": {
+    "max_counted_browser_host_calls": 40,
+    "concurrency": 4,
+    "same_site_concurrency": 4,
+    "task_timeout_seconds": 4800,
+    "worker_max_run_seconds": 2700,
+    "counting_note": "browser_v2_run batches count as one host round trip; not a 40-primitive-action cap."
+  },
+  "screenshot_dimensions": {
+    "(3024, 1800)": 461,
+    "(3024, 1798)": 133,
+    "(3026, 1802)": 10,
+    "(3024, 1796)": 1,
+    "(3026, 1800)": 6
+  },
+  "judge_errors": [
+    "BBC News--13",
+    "Google Search--8"
+  ],
+  "limitations": [
+    "Self-reported system result on a modified 615-task set, not the unmodified 643-task benchmark.",
+    "Product build, Chrome version and service-side backend snapshot were not established from historical artifacts.",
+    "Judge transport attempts and prior reruns cannot be established from the archived request_count defaults.",
+    "One successful task has no selected screenshot and was scored from text evidence.",
+    "Public evidence is a privacy-redacted derivative; original files are retained separately."
+  ],
+  "per_website": [
+    {
+      "website": "Allrecipes",
+      "total": 40,
+      "success": 39,
+      "success_rate_percent": 97.5,
+      "counts": {
+        "success": 39,
+        "unknown": 1
+      }
+    },
+    {
+      "website": "Amazon",
+      "total": 40,
+      "success": 38,
+      "success_rate_percent": 95.0,
+      "counts": {
+        "success": 38,
+        "unknown": 1,
+        "failure": 1
+      }
+    },
+    {
+      "website": "Apple",
+      "total": 40,
+      "success": 37,
+      "success_rate_percent": 92.5,
+      "counts": {
+        "success": 37,
+        "failure": 3
+      }
+    },
+    {
+      "website": "ArXiv",
+      "total": 43,
+      "success": 39,
+      "success_rate_percent": 90.69767441860465,
+      "counts": {
+        "success": 39,
+        "run_error": 2,
+        "unknown": 2
+      }
+    },
+    {
+      "website": "BBC News",
+      "total": 39,
+      "success": 33,
+      "success_rate_percent": 84.61538461538461,
+      "counts": {
+        "success": 33,
+        "failure": 4,
+        "judge_error": 1,
+        "run_error": 1
+      }
+    },
+    {
+      "website": "Booking",
+      "total": 40,
+      "success": 31,
+      "success_rate_percent": 77.5,
+      "counts": {
+        "success": 31,
+        "failure": 7,
+        "unknown": 2
+      }
+    },
+    {
+      "website": "Cambridge Dictionary",
+      "total": 41,
+      "success": 38,
+      "success_rate_percent": 92.6829268292683,
+      "counts": {
+        "success": 38,
+        "failure": 3
+      }
+    },
+    {
+      "website": "Coursera",
+      "total": 40,
+      "success": 37,
+      "success_rate_percent": 92.5,
+      "counts": {
+        "success": 37,
+        "failure": 2,
+        "unknown": 1
+      }
+    },
+    {
+      "website": "ESPN",
+      "total": 44,
+      "success": 38,
+      "success_rate_percent": 86.36363636363636,
+      "counts": {
+        "success": 38,
+        "unknown": 2,
+        "failure": 4
+      }
+    },
+    {
+      "website": "GitHub",
+      "total": 41,
+      "success": 37,
+      "success_rate_percent": 90.2439024390244,
+      "counts": {
+        "success": 37,
+        "run_error": 1,
+        "unknown": 2,
+        "failure": 1
+      }
+    },
+    {
+      "website": "Google Flights",
+      "total": 40,
+      "success": 19,
+      "success_rate_percent": 47.5,
+      "counts": {
+        "success": 19,
+        "failure": 16,
+        "run_error": 4,
+        "unknown": 1
+      }
+    },
+    {
+      "website": "Google Map",
+      "total": 40,
+      "success": 35,
+      "success_rate_percent": 87.5,
+      "counts": {
+        "success": 35,
+        "failure": 4,
+        "unknown": 1
+      }
+    },
+    {
+      "website": "Google Search",
+      "total": 42,
+      "success": 40,
+      "success_rate_percent": 95.23809523809524,
+      "counts": {
+        "success": 40,
+        "failure": 1,
+        "judge_error": 1
+      }
+    },
+    {
+      "website": "Huggingface",
+      "total": 39,
+      "success": 30,
+      "success_rate_percent": 76.92307692307692,
+      "counts": {
+        "unknown": 5,
+        "success": 30,
+        "run_error": 3,
+        "failure": 1
+      }
+    },
+    {
+      "website": "Wolfram Alpha",
+      "total": 46,
+      "success": 39,
+      "success_rate_percent": 84.78260869565217,
+      "counts": {
+        "success": 39,
+        "unknown": 4,
+        "failure": 2,
+        "run_error": 1
+      }
+    }
+  ],
+  "prepared_at": "2026-10-28",
+  "publication_state": "Public self-reported evidence repository; not submitted to or accepted by the Steel leaderboard",
+  "product_homepage": "https://ai.soho.komect.com/ai/llm/home",
+  "documentation_updated_at": "2026-11-11",
+  "published_at": "2026-11-11",
+  "repository_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results",
+  "source_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/blob/main/REPORT.md",
+  "product_alias": "LingxiClaw"
+}

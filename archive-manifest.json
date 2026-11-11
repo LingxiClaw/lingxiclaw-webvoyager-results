@@ -1,0 +1,22 @@
+{
+  "repository_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results",
+  "release_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/tag/webvoyager-2026-10-09",
+  "archive_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-evidence-20261111.zip",
+  "archive_file": "lingxiclaw-webvoyager-evidence-20261111.zip",
+  "bytes": 658829402,
+  "sha256": "fb0c32ece5fc762bd35e85e39682258ad8d830ffca39fe1290b38a668bda5a9e",
+  "file_count": 5589,
+  "extraction_root": "lingxiclaw-webvoyager-evidence",
+  "result": {
+    "success": 530,
+    "total": 615,
+    "success_rate_display": "86.18%"
+  },
+  "contents": {
+    "task_records": 615,
+    "judge_records": 615,
+    "frozen_input_bundles": 613,
+    "selected_screenshots": 611
+  },
+  "verification": "Every archive member was re-read and SHA-256 matched to the validated source package; ZIP CRC verification also passed."
+}

@@ -1,0 +1,27 @@
+{
+  "provider": "ark",
+  "model": "doubao-seed-2-0-pro-260215",
+  "protocol": "custom evidence-v1 text-and-image evaluator",
+  "prompt_sha256": "2868fc7b57e4a25a38ced36bdd47c347784848011eb543e13f7a0715079dde30",
+  "prompt_matching_bundles": 613,
+  "recorded_profiles": [
+    {
+      "profile": {
+        "capacity_method": "conservative UTF-8 byte count plus 16384 tokens/image",
+        "chunk_chars": 4000,
+        "context_tokens": 131072,
+        "image_tokens": 16384,
+        "low_texture_stddev": 2.0,
+        "near_white_fraction": 0.98,
+        "output_tokens": 4096,
+        "text_chars": 60000,
+        "version": "evidence-v1"
+      },
+      "bundles": 613
+    }
+  ],
+  "judge_request_count": "not established from historical records",
+  "judge_transport_retries": "not established",
+  "raw_provider_responses": "not recovered",
+  "historical_api_temperature": "not established from bound invocation records"
+}

@@ -1,0 +1,9 @@
+{
+  "systemName": "Lingxi AI Assistant",
+  "organization": "China Mobile (Hangzhou) Information Technology Co., Ltd (中移（杭州）信息技术有限公司)",
+  "scoreDisplay": "86.18%",
+  "scoreValue": 86.18,
+  "sourceUrl": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/blob/main/REPORT.md",
+  "notesShort": "Self-reported product-level 530/615 on a date-adjusted subset with 28 inherited exclusions and 99 changed questions versus canonical; DeepSeek-V4.1-Flash catalog model, custom Doubao text-and-image judge; historical checkpoint and judge retries unverified.",
+  "reportedAt": "2026-11-11"
+}

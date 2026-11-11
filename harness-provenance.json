@@ -1,0 +1,62 @@
+{
+  "archive_name": "lingxi-webvoyager-complete-615-20261010T033711Z.zip",
+  "manifest_bound_files": [
+    {
+      "file": "browser_budget.py",
+      "expected_sha256": "236ff310029c98259073a08a1b02087ccd129ef0d1eaa850763d4a8fc4f4678a",
+      "matches": 1,
+      "archive_path": "lingxi-webvoyager-eval/browser_budget.py"
+    },
+    {
+      "file": "accept_title_mismatch_evidence.py",
+      "expected_sha256": "0927d4001dc709c97da3273868a26d70fc2833a2a1c8ee83f0ea38ffc6d10370",
+      "matches": 1,
+      "archive_path": "lingxi-webvoyager-eval/accept_title_mismatch_evidence.py"
+    },
+    {
+      "file": "capture_chrome_window_windows.py",
+      "expected_sha256": "64d15a00cdb302e7a0834ecb52c1b961130c4fba717cbeadae8a4a0f33931eda",
+      "matches": 1,
+      "archive_path": "lingxi-webvoyager-eval/capture_chrome_window_windows.py"
+    },
+    {
+      "file": "lingxi_webvoyager.py",
+      "expected_sha256": "7e9aab7746fef20d78dec1406b02d0c8546a133f71bd01f4a1134a09e03f1a7a",
+      "matches": 1,
+      "archive_path": "lingxi-webvoyager-eval/lingxi_webvoyager.py"
+    },
+    {
+      "file": "browser_v2_capture.py",
+      "expected_sha256": "723855e33ad97f40c3d53a3bded828ca90521f6107b4b90ec0d04d496e24dc9f",
+      "matches": 1,
+      "archive_path": "lingxi-webvoyager-eval/browser_v2_capture.py"
+    },
+    {
+      "file": "lingxi_webvoyager_audit.py",
+      "expected_sha256": "8d38b1628206a036c61109474d1f6cef101d038f29d0678008d6c1b6f3ca208b",
+      "matches": 1,
+      "archive_path": "lingxi-webvoyager-eval/lingxi_webvoyager_audit.py"
+    },
+    {
+      "file": "accept_browser_v2_c4.py",
+      "expected_sha256": "39e6d155a3a71b87f0c161dfffaa77747fa7863b979e651ad80e9ad2d1835b9f",
+      "matches": 1,
+      "archive_path": "lingxi-webvoyager-eval/accept_browser_v2_c4.py"
+    },
+    {
+      "file": "browser_v2_scheduler.py",
+      "expected_sha256": "993548c22543060cdb7fa6f97e89f2e9113b7a50e91bb43e5d9c406bea924ab6",
+      "matches": 1,
+      "archive_path": "lingxi-webvoyager-eval/browser_v2_scheduler.py"
+    },
+    {
+      "file": "lingxi_webvoyager_v2_audit.py",
+      "expected_sha256": "bae5f5335e0f75fc329572c07cd2abc5d3349743594f40df83282b8f4dce22b5",
+      "matches": 1,
+      "archive_path": "lingxi-webvoyager-eval/lingxi_webvoyager_v2_audit.py"
+    }
+  ],
+  "judge_source_status": "The archive includes judge.py, evidence.py, llm.py and pinned requirements. They are associated with the archive, but not hash-bound to a historical judge invocation by the run manifest.",
+  "declared_dependencies": "# Browser V2 four-way full WebVoyager audit kit\n#\n# Python deps used by the Judge / report path and package version recording.\n# Install on Windows with:  .\\setup_windows.ps1\n# Install on macOS with:    python3.12 -m venv lingxi-webvoyager-eval/.venv\n#                           lingxi-webvoyager-eval/.venv/bin/pip install -r requirements.txt\n\nbrowser-use==0.13.8\npydantic==2.12.5\npython-dotenv==1.2.2\npillow==12.3.0\nopenai==2.16.0\nhttpx==0.28.1\n",
+  "historical_installed_dependencies": "Not established; manifest browser_use_python_package is null."
+}
