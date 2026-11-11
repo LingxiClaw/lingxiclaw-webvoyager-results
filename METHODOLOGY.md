@@ -60,7 +60,7 @@ The 615 Judge records contain 601 completed judgments, 12 execution-error skips 
 
 Each unique task contributes one archived classification. An execution error or invalid benchmark contract is an execution failure; otherwise a Judge error is retained as a Judge error; otherwise the saved verdict determines success, failure or unknown. Only success contributes to the numerator. All 615 tasks remain in the denominator.
 
-No additional Judge requests, replacement verdicts or selective exclusions were introduced in preparation. recompute_results.py (`evaluation/recompute_results.py` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-evidence-20261111.zip)) independently aggregates the retained records without model calls. It is an offline aggregation tool, not the historical online Judge runner.
+No additional Judge requests, replacement verdicts or selective exclusions were introduced in preparation. recompute_results.py (`evaluation/recompute_results.py` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/tag/webvoyager-2026-10-09)) independently aggregates the retained records without model calls. It is an offline aggregation tool, not the historical online Judge runner.
 
 ## Exceptions and provenance
 

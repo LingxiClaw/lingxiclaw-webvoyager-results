@@ -16,7 +16,7 @@ The score is the archived automated judgment result, not independent human certi
 
 ## Dataset and comparability
 
-The exact evaluated file is evaluated-615.jsonl (`public/datasets/evaluated-615.jsonl` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-evidence-20261111.zip)). It has 615 unique IDs from 15 websites. Its SHA-256 is `e0f99161eeb09f30c94cb687143b67e6684347dc29ba863541f95ba15914f9b9`.
+The exact evaluated file is evaluated-615.jsonl (`public/datasets/evaluated-615.jsonl` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/tag/webvoyager-2026-10-09)). It has 615 unique IDs from 15 websites. Its SHA-256 is `e0f99161eeb09f30c94cb687143b67e6684347dc29ba863541f95ba15914f9b9`.
 
 The ID set matches the omxyz shared 615-task layer: the 24-task Alumnium removal set plus four additional upstream exclusions. There were no additional exclusions based on the Lingxi outcomes. Compared with the canonical 643-task dataset, 99 retained task questions differ. Compared with the fixed omxyz current layer, 71 questions differ, all in Booking or Google Flights, through date replacements or date-format/year normalization. These statements describe the recovered files; the historical editing command was not recovered.
 
@@ -46,7 +46,7 @@ The legacy capture_unavailable diagnostic was 6 because it added four missing-im
 
 ## Evidence publication and privacy
 
-This package contains privacy-redacted copies of the execution manifest, schedule, event logs, task records, judgments, frozen judge inputs and selected screenshots. Raw web tokens and local user/account paths were removed. Associated source hashes and input hashes were regenerated for the public derivative; original and public file hashes are paired in lineage.json (`public/lineage.json` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-evidence-20261111.zip)). The public derivative is not an assertion of byte-identical historical wire requests. Original records remain unchanged.
+This package contains privacy-redacted copies of the execution manifest, schedule, event logs, task records, judgments, frozen judge inputs and selected screenshots. Raw web tokens and local user/account paths were removed. Associated source hashes and input hashes were regenerated for the public derivative; original and public file hashes are paired in lineage.json (`public/lineage.json` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/tag/webvoyager-2026-10-09)). The public derivative is not an assertion of byte-identical historical wire requests. Original records remain unchanged.
 
 All 611 selected screenshots underwent local OCR screening for emails, local user paths and credential labels. The only email match was a public arXiv contact address. Screening is not a guarantee of detecting every sensitive item. See [processing details](privacy-processing.json).
 
@@ -74,8 +74,8 @@ All 611 selected screenshots underwent local OCR screening for emails, local use
 
 - [Recomputed summary](summary.json)
 - [All 615 task results](task-results.json)
-- Offline package verifier (`public/verify_package.py` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-evidence-20261111.zip)) — run `python3 public/verify_package.py` from the extracted archive root; no model/API access.
-- Published-file checksums (`public/SHA256SUMS.json` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-evidence-20261111.zip))
+- Offline package verifier (`public/verify_package.py` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/tag/webvoyager-2026-10-09)) — run `python3 public/verify_package.py` from the extracted archive root; no model/API access.
+- Published-file checksums (`public/SHA256SUMS.json` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/tag/webvoyager-2026-10-09))
 
 ## Task evidence index
 

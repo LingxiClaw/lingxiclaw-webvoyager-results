@@ -34,7 +34,7 @@ BBC News--13 and Google Search--8 retain Judge errors from empty-JSON parsing fa
 
 ## Diagnostic correction
 
-The legacy `capture_unavailable=6` adds four missing-image-path cases and two `quality=unavailable` cases into the same key. The separate missing-selected-image count is four. Correcting the diagnostic does not change a judgment or score. The legacy report remains available as original_report.redacted.json (`public/run/original_report.redacted.json` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-evidence-20261111.zip)).
+The legacy `capture_unavailable=6` adds four missing-image-path cases and two `quality=unavailable` cases into the same key. The separate missing-selected-image count is four. Correcting the diagnostic does not change a judgment or score. The legacy report remains available as original_report.redacted.json (`public/run/original_report.redacted.json` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/tag/webvoyager-2026-10-09)).
 
 ## What the audit proves
 

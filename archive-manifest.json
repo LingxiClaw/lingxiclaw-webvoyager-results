@@ -1,22 +1,146 @@
 {
   "repository_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results",
   "release_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/tag/webvoyager-2026-10-09",
-  "archive_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-evidence-20261111.zip",
-  "archive_file": "lingxiclaw-webvoyager-evidence-20261111.zip",
-  "bytes": 658829402,
-  "sha256": "fb0c32ece5fc762bd35e85e39682258ad8d830ffca39fe1290b38a668bda5a9e",
-  "file_count": 5589,
+  "format": "16 independent ZIP archives: one common archive plus 15 website archives; extract all into the same parent directory",
   "extraction_root": "lingxiclaw-webvoyager-evidence",
-  "result": {
-    "success": 530,
-    "total": 615,
-    "success_rate_display": "86.18%"
-  },
+  "file_count": 5589,
+  "total_compressed_bytes": 658829764,
+  "score": "530/615 (86.18%)",
   "contents": {
     "task_records": 615,
     "judge_records": 615,
     "frozen_input_bundles": 613,
     "selected_screenshots": 611
   },
-  "verification": "Every archive member was re-read and SHA-256 matched to the validated source package; ZIP CRC verification also passed."
+  "archives": [
+    {
+      "filename": "lingxiclaw-webvoyager-00-common.zip",
+      "site": "common",
+      "bytes": 1943312,
+      "sha256": "66b5be7c8602a43d56168e31f7320dd0b1df29d2b1dca54af7f3dddcbdf11aed",
+      "files": 45,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-00-common.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-01-allrecipes.zip",
+      "site": "Allrecipes",
+      "bytes": 33059496,
+      "sha256": "524fe8485b9629413c0fb329d05d58b86c4b0cccbaa84f2a101f4497541c68cf",
+      "files": 360,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-01-allrecipes.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-02-amazon.zip",
+      "site": "Amazon",
+      "bytes": 73657210,
+      "sha256": "55efe1439ba97252c6822faf3b672b58125d059ec32021be6c0860f0d6a46341",
+      "files": 360,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-02-amazon.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-03-apple.zip",
+      "site": "Apple",
+      "bytes": 38630813,
+      "sha256": "305279595b7ec551cc2682963d3aeb20e7e13ded8691cca1d2b85eb1fb5d52f9",
+      "files": 362,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-03-apple.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-04-arxiv.zip",
+      "site": "ArXiv",
+      "bytes": 32349721,
+      "sha256": "a657f6c33021b6591ad89b1f88de2161fc8094236cdbb178b383398034240373",
+      "files": 387,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-04-arxiv.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-05-bbc-news.zip",
+      "site": "BBC_News",
+      "bytes": 48250937,
+      "sha256": "5802796002c988cc78b5dc560f9ee23792f1e96c4690bcf6589cbd02c3210a9f",
+      "files": 351,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-05-bbc-news.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-06-booking.zip",
+      "site": "Booking",
+      "bytes": 58054091,
+      "sha256": "6c039e16fdb3a6645ae18861164d6e7523fc072e1f2bf5141006125959efc46f",
+      "files": 362,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-06-booking.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-07-cambridge-dictionary.zip",
+      "site": "Cambridge_Dictionary",
+      "bytes": 33950773,
+      "sha256": "3da2d1c5d2d907787431e20ca8ee68c975187fb17f0a8fda76cf2d6e7f8852bc",
+      "files": 371,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-07-cambridge-dictionary.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-08-coursera.zip",
+      "site": "Coursera",
+      "bytes": 39620934,
+      "sha256": "2da1858cec6ded93e141a67bfa816c0f257568eb152be1d8827110949d41aa24",
+      "files": 361,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-08-coursera.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-09-espn.zip",
+      "site": "ESPN",
+      "bytes": 39080916,
+      "sha256": "6169683aa48f02f16b7bef911609761cf300df9f3e6e5219e122688360ea8c7d",
+      "files": 396,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-09-espn.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-10-github.zip",
+      "site": "GitHub",
+      "bytes": 25186501,
+      "sha256": "6ce0c1ed4307b5acdc0393a89cff13ee807769aad5e36f048712b81087ff71a7",
+      "files": 362,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-10-github.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-11-google-flights.zip",
+      "site": "Google_Flights",
+      "bytes": 33729391,
+      "sha256": "97b1907d1003e6a3e711b8b4ec7be51f0b09e9e36f16a2f9fdc2553079602b93",
+      "files": 367,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-11-google-flights.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-12-google-map.zip",
+      "site": "Google_Map",
+      "bytes": 90437784,
+      "sha256": "1cdc9c2b523a4aa7b993cfa17148724261480f82c2427ea711d9127fb7612732",
+      "files": 360,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-12-google-map.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-13-google-search.zip",
+      "site": "Google_Search",
+      "bytes": 38838087,
+      "sha256": "caf404f9cce8774d02e3390ce1b261058ffd0c69d83b4afa9618b6a53e29fb8c",
+      "files": 380,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-13-google-search.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-14-huggingface.zip",
+      "site": "Huggingface",
+      "bytes": 34367437,
+      "sha256": "ea898893ac9a16414505e3f841647bef53b7f1f12169c7da8421823c3211ffd4",
+      "files": 344,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-14-huggingface.zip"
+    },
+    {
+      "filename": "lingxiclaw-webvoyager-15-wolfram-alpha.zip",
+      "site": "Wolfram_Alpha",
+      "bytes": 37672361,
+      "sha256": "98556acea649c8b9ebb71d8458e70e564d31bcb842c52661a8112572efd75a5a",
+      "files": 421,
+      "download_url": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-15-wolfram-alpha.zip"
+    }
+  ],
+  "verification": "All archive members were re-read and SHA-256 matched to the validated source package; ZIP CRC checks passed. The complete union is exactly the 5,589-file package."
 }

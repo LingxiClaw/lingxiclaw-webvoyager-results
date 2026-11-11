@@ -49,7 +49,7 @@ The precise provider-side execution-model checkpoint, complete auxiliary runtime
 | Aggregated task judgments | [merged_results.json](merged_results.json) |
 | Judge prompt and recorded input configuration | [JUDGE_EVALUATION.md](JUDGE_EVALUATION.md) |
 | Scoring audit and missing-image cases | [SCORING_AUDIT.md](SCORING_AUDIT.md) |
-| Execution logs, frozen inputs and screenshots | public/run/ (`public/run` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-evidence-20261111.zip)) |
+| Execution logs, frozen inputs and screenshots | public/run/ (`public/run` inside the [evidence archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/tag/webvoyager-2026-10-09)) |
 | Privacy processing and provenance | [EVIDENCE.md](EVIDENCE.md) |
 | Upload and submission procedure | [PUBLICATION_GUIDE.md](PUBLICATION_GUIDE.md) |
 | English Steel PR and Issue drafts | [PR_BODY.md](PR_BODY.md) and [ISSUE_DRAFT.md](ISSUE_DRAFT.md) |
@@ -76,7 +76,7 @@ The precise provider-side execution-model checkpoint, complete auxiliary runtime
 
 ## Complete evidence archive
 
-Download the [complete evidence ZIP](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-evidence-20261111.zip) from the [Release](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/tag/webvoyager-2026-10-09). Verify it against [SHA256SUMS.txt](SHA256SUMS.txt) or [archive-manifest.json](archive-manifest.json), then extract it. The archive includes all 5,589 files, including the original directory layout and offline verification scripts. Historical evidence paths in the JSON records are relative to this extracted package.
+Download the [complete evidence archives](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/tag/webvoyager-2026-10-09) from the [Release](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/tag/webvoyager-2026-10-09). Download the common ZIP and **all 15 website ZIPs**, then verify them against [SHA256SUMS.txt](SHA256SUMS.txt) or [archive-manifest.json](archive-manifest.json), then extract all ZIPs into the same parent directory. Their union includes all 5,589 files, including the original directory layout and offline verification scripts. Historical evidence paths in the JSON records are relative to this extracted package.
 
 ## Offline verification
 
@@ -87,6 +87,6 @@ python3 scripts/verify_repository.py
 python3 evaluation/recompute_results.py
 ```
 
-These commands read local files, verify checksums and recompute the archived classification. They make no API requests and do not evaluate answers again. The individual files retain the original task-record layout. The public GitHub repository hosts the report, methodology and structured results; the complete directory, including logs and images, is distributed as a [Release archive](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/download/webvoyager-2026-10-09/lingxiclaw-webvoyager-evidence-20261111.zip). Extract it before running these verification commands. The complete evidence occupies approximately 1.46 GB before Git compression.
+These commands read local files, verify checksums and recompute the archived classification. They make no API requests and do not evaluate answers again. The individual files retain the original task-record layout. The public GitHub repository hosts the report, methodology and structured results; the complete directory, including logs and images, is distributed as [Release archives](https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/releases/tag/webvoyager-2026-10-09). Extract all 16 ZIPs into the same parent directory before running these verification commands. The complete evidence occupies approximately 1.46 GB before Git compression.
 
 The documentation is in English. Historical logs, model responses and judge decisions retain their recorded language. The bilingual organization name is intentional. Dataset license information is retained in [LICENSE-WebVoyager.txt](LICENSE-WebVoyager.txt).
