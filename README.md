@@ -27,13 +27,25 @@ Success rate = 530 / 615 × 100% = 86.1788617886%, displayed as **86.18%**. Ever
 
 | Evaluation setting | Value |
 | --- | --- |
+| Evaluation passes (task level) | **1 pass within this archived run**: one dispatch and one archived classification for each of the 615 tasks |
 | Agent model request | DeepSeek-V4.1-Flash |
 | Recorded catalog model | Deepseek-V4.1-flash |
 | External judge | ark / doubao-seed-2-0-pro-260215 |
 | Judge protocol | Custom text-and-image evidence-v1 protocol |
 | Task collection | 615 tasks across 15 websites; 28 inherited exclusions from canonical 643 |
 | Task-instruction differences | 99 retained questions differ from canonical; 71 differ from the fixed omxyz current layer |
-| Counted browser-call budget | 40 per task; a browser_v2_run batch counts as one host call |
+| Counted browser-call budget | **At most 40 counted browser host calls per task**; see the counting rules below |
+| Batch-call accounting | A `browser_v2_run` batch counts as one host call, even when it contains multiple primitive actions |
+| Excluded from budget spend | `browser_v2_session` lifecycle calls and attempts refused by the worker budget guard |
+| Concurrency / same-site concurrency | 4 / 4 |
+| Scheduling | Site round robin; 30-second site cooldown |
+| Seed / shuffle | 42 / false |
+| Task timeout / worker runtime limit | 4800 seconds / 2700 seconds |
+| Requested temperature / output limit | 0 / 65536 tokens; recorded request metadata, with historical server-side enforcement unverified |
+
+**Single-pass scope.** The archived schedule contains exactly 615 dispatch events, with each task ID dispatched once. Each task contributes one archived classification to the reported score. The **1 pass** label describes this run's task-level dispatches; it does not establish the absence of earlier evaluations, internal model retries or Judge transport retries. The historical Judge request and retry counts were not recovered. Its default `request_count=0` values do not establish a single Judge attempt.
+
+**Step-budget accounting.** The 40-call limit applies to counted `browser_v2_*` host calls under the rules above. It is not a limit of 40 primitive actions such as individual clicks or keystrokes: 81 tasks recorded more than 40 primitive actions, with a maximum of 88. All 613 task records containing budget data report worker-side enforcement and compliance, and their allowed-call counts are at most 40. The other two task records are execution errors without budget data; both remain in the 615-task denominator. See [execution budgets and dispatch](METHODOLOGY.md#execution-budgets-and-dispatch) and the [scoring audit](SCORING_AUDIT.md).
 
 The precise provider-side execution-model checkpoint, complete auxiliary runtime-model stack, historical product/browser builds, and judge request/retry provenance were not established. The archived model identifiers are reported as recorded. The judge is an offline scoring model, separate from the product's runtime-model stack.
 
