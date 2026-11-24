@@ -1,0 +1,65 @@
+[
+  {
+    "task_id": "ArXiv--28",
+    "first_dispatch_utc": "2026-11-23T18:47:38.272803+00:00",
+    "first_completion_utc": "2026-11-23T19:04:43.404081+00:00",
+    "first_status": "error",
+    "final_start_utc": "2026-11-24T02:49:34.782775Z",
+    "final_end_utc": "2026-11-24T02:55:01.826969+00:00",
+    "final_category": "success"
+  },
+  {
+    "task_id": "BBC News--25",
+    "first_dispatch_utc": "2026-11-23T17:45:36.837420+00:00",
+    "first_completion_utc": "2026-11-23T18:03:09.682706+00:00",
+    "first_status": "error",
+    "final_start_utc": "2026-11-24T02:49:34.781840Z",
+    "final_end_utc": "2026-11-24T02:52:36.429819+00:00",
+    "final_category": "success"
+  },
+  {
+    "task_id": "BBC News--40",
+    "first_dispatch_utc": "2026-11-23T21:07:52.618208+00:00",
+    "first_completion_utc": "2026-11-23T21:25:10.632079+00:00",
+    "first_status": "error",
+    "final_start_utc": "2026-11-24T02:55:01.832242Z",
+    "final_end_utc": "2026-11-24T02:57:27.565500+00:00",
+    "final_category": "success"
+  },
+  {
+    "task_id": "Booking--23",
+    "first_dispatch_utc": "2026-11-23T16:29:46.735140+00:00",
+    "first_completion_utc": "2026-11-23T16:47:30.871497+00:00",
+    "first_status": "error",
+    "final_start_utc": "2026-11-24T02:49:34.781739Z",
+    "final_end_utc": "2026-11-24T02:58:35.473179+00:00",
+    "final_category": "success"
+  },
+  {
+    "task_id": "ESPN--29",
+    "first_dispatch_utc": "2026-11-23T19:14:48.476596+00:00",
+    "first_completion_utc": "2026-11-23T19:32:03.354405+00:00",
+    "first_status": "error",
+    "final_start_utc": "2026-11-24T02:52:36.431613Z",
+    "final_end_utc": "2026-11-24T02:55:48.011667+00:00",
+    "final_category": "success"
+  },
+  {
+    "task_id": "Google Flights--29",
+    "first_dispatch_utc": "2026-11-23T18:38:39.314668+00:00",
+    "first_completion_utc": "2026-11-23T18:56:48.531238+00:00",
+    "first_status": "error",
+    "final_start_utc": "2026-11-24T02:49:34.781867Z",
+    "final_end_utc": "2026-11-24T02:56:18.356688+00:00",
+    "final_category": "success"
+  },
+  {
+    "task_id": "Google Flights--37",
+    "first_dispatch_utc": "2026-11-23T20:44:08.615818+00:00",
+    "first_completion_utc": "2026-11-23T21:01:27.944913+00:00",
+    "first_status": "error",
+    "final_start_utc": "2026-11-24T02:55:48.014708Z",
+    "final_end_utc": "2026-11-24T03:08:02.827200+00:00",
+    "final_category": "success"
+  }
+]

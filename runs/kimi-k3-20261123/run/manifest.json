@@ -1,0 +1,3959 @@
+{
+  "schema_version": 1,
+  "run_name": "browser-v2-full-615-macos-internal-kimi-k3-moma-c4-40-20261123T105657Z",
+  "execution_log": "execution.log",
+  "created_at": "2026-11-23T10:56:58.585948+00:00",
+  "dataset": "/Users/REDACTED/Documents/browser use/webvoyager-v2-audit-bundle/webvoyager-test/data/WebVoyager_data_omxyz_current_615.jsonl",
+  "dataset_sha256": "e0f99161eeb09f30c94cb687143b67e6684347dc29ba863541f95ba15914f9b9",
+  "source_task_count": 615,
+  "selected_task_count": 615,
+  "selected_tasks": [
+    {
+      "id": "Allrecipes--0",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--0",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--0",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--0",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--0",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--0",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--0",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--0",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--0",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--0",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--1",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--0",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--0",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--0",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--0",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--1",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--1",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--1",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--1",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--1",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--1",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--1",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--1",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--1",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--1",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--2",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--1",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--1",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--2",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--1",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--2",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--2",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--2",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--2",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--2",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--2",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--2",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--2",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--2",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--2",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--3",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--2",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--2",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--3",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--2",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--4",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--3",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--3",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--3",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--3",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--3",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--3",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--3",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--3",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--3",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--4",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--3",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--3",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--4",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--3",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--5",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--4",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--4",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--4",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--4",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--4",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--4",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--4",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--4",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--4",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--5",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--4",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--4",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--5",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--4",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--6",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--5",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--5",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--5",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--5",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--5",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--5",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--5",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--5",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--5",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--6",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--5",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--5",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--7",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--5",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--7",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--6",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--6",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--6",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--6",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--7",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--6",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--6",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--6",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--6",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--7",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--6",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--6",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--8",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--6",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--8",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--7",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--8",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--7",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--7",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--8",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--7",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--7",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--7",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--7",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--8",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--7",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--7",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--9",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--7",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--9",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--8",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--10",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--8",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--8",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--9",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--8",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--8",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--8",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--8",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--9",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--8",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--8",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--11",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--8",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--10",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--9",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--11",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--9",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--9",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--10",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--9",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--9",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--9",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--9",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--10",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--9",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--9",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--12",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--9",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--11",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--10",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--12",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--10",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--10",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--12",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--10",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--10",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--10",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--10",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--11",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--10",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--10",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--13",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--10",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--12",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--11",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--13",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--11",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--11",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--15",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--11",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--11",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--11",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--11",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--12",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--11",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--11",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--14",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--11",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--13",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--12",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--14",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--12",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--12",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--16",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--12",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--12",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--12",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--12",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--13",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--12",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--12",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--15",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--12",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--14",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--13",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--15",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--13",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--13",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--17",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--13",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--13",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--13",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--13",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--14",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--14",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--13",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--16",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--13",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--15",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--14",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--16",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--14",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--14",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--18",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--14",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--14",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--14",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--14",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--15",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--15",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--14",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--17",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--14",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--17",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--15",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--17",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--15",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--15",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--19",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--15",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--15",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--15",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--15",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--16",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--16",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--15",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--18",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--15",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--18",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--16",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--18",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--16",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--16",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--20",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--16",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--16",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--16",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--16",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--17",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--17",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--16",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--19",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--16",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--20",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--17",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--19",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--17",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--17",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--21",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--17",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--18",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--17",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--17",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--18",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--18",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--17",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--20",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--17",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--21",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--18",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--20",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--18",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--19",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--22",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--18",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--19",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--18",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--18",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--19",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--19",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--18",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--21",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--18",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--22",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--20",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--21",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--19",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--20",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--23",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--20",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--20",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--19",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--19",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--21",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--20",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--19",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--22",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--19",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--23",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--21",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--22",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--20",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--21",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--24",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--21",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--21",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--20",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--20",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--22",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--21",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--20",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--23",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--20",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--24",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--22",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--23",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--21",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--22",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--25",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--22",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--22",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--21",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--21",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--23",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--22",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--21",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--24",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--21",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--25",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--23",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--24",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--22",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--23",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--26",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--23",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--23",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--22",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--22",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--24",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--23",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--23",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--25",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--22",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--26",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--24",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--25",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--23",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--24",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--27",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--24",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--24",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--23",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--23",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--25",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--24",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--24",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--26",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--23",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--27",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--25",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--26",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--24",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--25",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--28",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--25",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--25",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--24",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--24",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--26",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--25",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--25",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--27",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--24",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--28",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--26",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--27",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--25",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--26",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--29",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--26",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--26",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--25",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--25",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--27",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--26",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--26",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--28",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--25",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--31",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--27",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--28",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--26",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--27",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--30",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--27",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--27",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--26",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--26",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--28",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--27",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--27",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--29",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--26",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--32",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--28",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--29",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--27",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--28",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--31",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--28",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--29",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--27",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--27",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--29",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--28",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--28",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--30",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--27",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--33",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--29",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--30",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--28",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--30",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--32",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--29",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--30",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--28",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--28",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--30",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--29",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--29",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--31",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--28",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--34",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--30",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--31",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--29",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--31",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--33",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--30",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--31",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--29",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--29",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--31",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--30",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--30",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--33",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--29",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--35",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--31",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--32",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--30",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--32",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--34",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--31",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--32",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--30",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--30",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--32",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--31",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--31",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--34",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--30",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--36",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--32",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--33",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--31",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--33",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--35",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--32",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--33",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--31",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--31",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--33",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--32",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--32",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--35",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--31",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--37",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--33",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--34",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--32",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--34",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--36",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--33",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--34",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--32",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--32",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--34",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--33",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--33",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--36",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--32",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--38",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--34",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--35",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--33",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--35",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--37",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--34",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--35",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--33",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--33",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--35",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--34",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--34",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--37",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--33",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--39",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--35",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--36",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--34",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--36",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--38",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--35",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--36",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--34",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--34",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--36",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--35",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--35",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--38",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--34",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--40",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--36",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--37",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--35",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--38",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--39",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--36",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--37",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--35",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--35",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--37",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--36",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--36",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--39",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--35",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--41",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--37",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--38",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--36",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--39",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--40",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--37",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--38",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--36",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--36",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--38",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--37",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--37",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--40",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--36",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--42",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--38",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--39",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--37",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--40",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--41",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--38",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--39",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--37",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--37",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--39",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--38",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--38",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--41",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--37",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--43",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--39",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--40",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--38",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "BBC News--41",
+      "web_name": "BBC News",
+      "web": "https://www.bbc.com/news/"
+    },
+    {
+      "id": "Booking--42",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--39",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--40",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--38",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--38",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--40",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--39",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--39",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Huggingface--42",
+      "web_name": "Huggingface",
+      "web": "https://huggingface.co/"
+    },
+    {
+      "id": "Wolfram Alpha--38",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Allrecipes--44",
+      "web_name": "Allrecipes",
+      "web": "https://www.allrecipes.com/"
+    },
+    {
+      "id": "Amazon--40",
+      "web_name": "Amazon",
+      "web": "https://www.amazon.com/"
+    },
+    {
+      "id": "Apple--41",
+      "web_name": "Apple",
+      "web": "https://www.apple.com/"
+    },
+    {
+      "id": "ArXiv--39",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "Booking--43",
+      "web_name": "Booking",
+      "web": "https://www.booking.com/"
+    },
+    {
+      "id": "Cambridge Dictionary--40",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "Coursera--41",
+      "web_name": "Coursera",
+      "web": "https://www.coursera.org/"
+    },
+    {
+      "id": "ESPN--39",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--39",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Flights--41",
+      "web_name": "Google Flights",
+      "web": "https://www.google.com/travel/flights/"
+    },
+    {
+      "id": "Google Map--40",
+      "web_name": "Google Map",
+      "web": "https://www.google.com/maps/"
+    },
+    {
+      "id": "Google Search--40",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Wolfram Alpha--39",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "ArXiv--40",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "Cambridge Dictionary--42",
+      "web_name": "Cambridge Dictionary",
+      "web": "https://dictionary.cambridge.org/"
+    },
+    {
+      "id": "ESPN--40",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "GitHub--40",
+      "web_name": "GitHub",
+      "web": "https://github.com/"
+    },
+    {
+      "id": "Google Search--41",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Wolfram Alpha--40",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "ArXiv--41",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "ESPN--41",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "Google Search--42",
+      "web_name": "Google Search",
+      "web": "https://www.google.com/"
+    },
+    {
+      "id": "Wolfram Alpha--41",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "ArXiv--42",
+      "web_name": "ArXiv",
+      "web": "https://arxiv.org/"
+    },
+    {
+      "id": "ESPN--42",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "Wolfram Alpha--42",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "ESPN--43",
+      "web_name": "ESPN",
+      "web": "https://www.espn.com/"
+    },
+    {
+      "id": "Wolfram Alpha--43",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Wolfram Alpha--44",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    },
+    {
+      "id": "Wolfram Alpha--45",
+      "web_name": "Wolfram Alpha",
+      "web": "https://www.wolframalpha.com/"
+    }
+  ],
+  "configuration": {
+    "agent_provider": "lingxi-local",
+    "agent_model": "ydy-kimi-K3",
+    "model_config": {
+      "requested_model": "ydy-kimi-K3",
+      "effective_model": "ydy-kimi-K3",
+      "worker_runtime_model": "ydy-kimi-K3",
+      "catalog_model_name": "ydy-kimi-K3",
+      "catalog_model_id": 69,
+      "temperature": 0.0,
+      "max_output_tokens": 65536,
+      "worker_runtime": {
+        "api_base": "http://127.0.0.1:18100/v1/server/ai/llm/gw/v1",
+        "mcp_url": "http://127.0.0.1:18100/v1/mcp/lingxiclaw/default",
+        "access_base_url": "http://127.0.0.1:18100/v1",
+        "model": "ydy-kimi-K3",
+        "workdir": "/Users/REDACTED",
+        "db_path": "/Users/REDACTED/.lingxi/accounts/REDACTED_ACCOUNT/worker.db",
+        "max_turns": 256,
+        "context_window_tokens": 128000,
+        "max_run_duration_seconds": 2700,
+        "max_tool_calls": 192,
+        "command_timeout_seconds": 30,
+        "security_detection": {
+          "enabled": true,
+          "endpoint": "http://127.0.0.1:17688",
+          "mode": "block",
+          "scope": "all",
+          "timeout_seconds": 5.0,
+          "user_id_present": false
+        }
+      },
+      "model_limits": {
+        "max_input_tokens": 1000000,
+        "max_output_tokens": 1000000,
+        "max_thinking_tokens": 1000000
+      },
+      "parameter_transport": {
+        "model": "top-level ChatRequest.model",
+        "temperature": "ChatRequest.metadata.webvoyager_eval.temperature",
+        "max_output_tokens": "ChatRequest.metadata.webvoyager_eval.max_output_tokens",
+        "note": "The local Lingxi /v1/chat schema exposes model directly but does not expose temperature/max_output_tokens as top-level fields. Those two values are sent as audit metadata and recorded as requested values; the worker must expose them separately to prove backend enforcement."
+      }
+    },
+    "browser_interface": "browser_use_v2",
+    "browser_tools": [
+      "browser_v2_session",
+      "browser_v2_tabs",
+      "browser_v2_navigate",
+      "browser_v2_observe",
+      "browser_v2_act",
+      "browser_v2_run",
+      "browser_v2_wait",
+      "browser_v2_screenshot",
+      "browser_v2_eval",
+      "browser_v2_capability"
+    ],
+    "skill_or_cli_required": false,
+    "request_timing": {
+      "field": "lingxi_api_requests[].elapsed_ms",
+      "scope": "Lingxi /v1/chat round trip including the V2 agent loop",
+      "pure_model_inference_timing_available": false
+    },
+    "browser_call_telemetry": {
+      "field": "tasks/*/run.json browser_operations[]",
+      "available_fields": [
+        "service_ms",
+        "model_wait_ms",
+        "payload_bytes",
+        "screenshot_bytes",
+        "retry_count",
+        "result_bytes_in_lingxi_event"
+      ]
+    },
+    "timeout_budget": {
+      "step_timeout_seconds": 300,
+      "max_browser_commands": 40,
+      "task_total_timeout_seconds": 4800
+    },
+    "browser_budget": {
+      "enabled": true,
+      "max_browser_commands": 40,
+      "scope": "per task",
+      "enforcement": "worker-side browser_task_policy budget plus post-hoc V2 tool-event audit",
+      "hard_enforcement_requested": true,
+      "reason": "metadata.browser_task_policy v1 asks the worker to reject counted calls past the limit; each task records whether it was honoured"
+    },
+    "concurrency": 4,
+    "site_concurrency": 4,
+    "schedule": "site_round_robin",
+    "site_key_rules": "dataset web_name, casefolded and whitespace normalized; hostname fallback only when web_name is empty",
+    "site_cooldown_seconds": 30,
+    "evidence_profile": {
+      "version": "evidence-v1",
+      "text_chars": 60000,
+      "chunk_chars": 4000,
+      "context_tokens": 131072,
+      "output_tokens": 4096,
+      "image_tokens": 16384,
+      "capacity_method": "conservative UTF-8 byte count plus 16384 tokens/image",
+      "near_white_fraction": 0.98,
+      "low_texture_stddev": 2.0
+    },
+    "capture": {
+      "max_attempts": 3,
+      "retry_delay_seconds": 1.0,
+      "deadline_seconds": 5
+    },
+    "cleanup": {
+      "deadline_seconds": 30,
+      "poll_seconds": 1
+    },
+    "prompt_version": "browser-v2-external-evaluator/v2",
+    "prompt_hashes": {
+      "Allrecipes--0": "3a366a3d49da9263f38a9644db2c2d150f916458a12e1e29071f2da63e80c4aa",
+      "Amazon--0": "52674d57a7bee6b803c096b073656d2900b884baefe27d054e56155ca7b43faf",
+      "Apple--0": "85fe495ca9f41620eb8452871a8117069ba96be71544c54e04734ccef5efb51c",
+      "ArXiv--0": "def4d98dc82e22e346914ba60b47342db0e9a35ab1ef77a60305f66a850dd6e3",
+      "BBC News--0": "b7c1aa751eef2eb1455654e49ac74bb9d36a7b7f2434fdaeb7383abd6ee68e53",
+      "Booking--0": "73ece45ba4c1f457bc98062272ec0ce76f56647cf1b23a0aa463610ab6ae9def",
+      "Cambridge Dictionary--0": "116697771a1555ba6acd3e90bce581a0ea805aa49ccf6209e6fd32bc53aec23f",
+      "Coursera--0": "5ec5d0098530e3c9ce4a809e50099aab97a842308ca5e33313778f2095e2e3e8",
+      "ESPN--0": "7c9d4860f93230aec115c55a57a979c690c655feb5f4ab4339eb60b0ff851852",
+      "GitHub--0": "b6368685eb5e37b27eca83218049b93f728e6bddf98243d46ff648f6f99e5f94",
+      "Google Flights--1": "395adb04a0b87c19b7e9fd45e09b0182ee1e4f8d80664c8804b22b29f83c8749",
+      "Google Map--0": "288fd51996f3049681f14778e5a7c66d196884f97284c0471092b13c54596d4f",
+      "Google Search--0": "9bd663b98cb349090b05d4208727a8357d6f52da0adce2899bbeff76fb6dc89b",
+      "Huggingface--0": "332b8f65d15e568c27ca26ae343341c73df3984b5e9dffdcf6a7ec4512a58079",
+      "Wolfram Alpha--0": "382f64444b2935a24fcabd08ef00308b7955d907a2f26626a0b571b1d749f861",
+      "Allrecipes--1": "e9ba0af91325f75574ff95c2e634075cfba7588cce7216d1236fd3edfdfe0464",
+      "Amazon--1": "d5f24a28d2c5f06e26ea48881d8f2755fb9de569cda7dab66f39b66f191dc676",
+      "Apple--1": "59e1ff15a1350119f309e2c5210a4809ab47cb7a6be256c04cc29c36adb47f71",
+      "ArXiv--1": "bc0ad7c02f69626e7183780a3fa10026de2f83285161c67e3c6d1ca7b166c032",
+      "BBC News--1": "13cf0ef7ac84e914a7f605764a00036c7fe7cf666cf8b11db9646821316dca70",
+      "Booking--1": "ec1f9807a71bb00f09aaad7d09615ce62eaa5fad06f9a8c0b6a9930bb43583c9",
+      "Cambridge Dictionary--1": "70c79af5330731a055c390b92c04ac42f5000b43adefea8dd37b1313cb08cf7a",
+      "Coursera--1": "f393b1c7fa68b2aad5522fe52cd2ccf7758c61bda933500ee1de45ab36c5c56a",
+      "ESPN--1": "ea06dead5d1631f8a271c69f4148db6ff937c5d38015f6ea836736fd0070a2bf",
+      "GitHub--1": "2c210db2a8d7797a4df4a76a01d677a0cc1e0ad2742eaa68d211d5f9b79504ef",
+      "Google Flights--2": "3e0a82e4de9a81e55fa80d1527e241f2a16c35180443f73cc14ffe337013eee4",
+      "Google Map--1": "7a084e52c2079899a012c3200666e6942a46431256ffb2d8d64cf12d9fb8fc89",
+      "Google Search--1": "c5ee640f8bfca21b7753d3bdf98de412da1c98ce7d08c08b8a28b5284bc3f4ad",
+      "Huggingface--2": "02e126252ff8ceb2c770f7a02ae0997cfd9e0e94230a9229f6ee708b3d84b264",
+      "Wolfram Alpha--1": "0889a9a57081d1487fd3c21c3202ef2851a1c00b19f7733bebfbb8fdd7c328f1",
+      "Allrecipes--2": "ae0b81de12718c24e3a9f63c7f42c1fab2da43e40ef0e20bb2eef58749058507",
+      "Amazon--2": "ee6df12855b3563189179064d4f715bc7a62cf59175d0463726df58b54879c18",
+      "Apple--2": "39728a61a727a0743507f9f2b5ec9ecea386a7f91076455176a230785332a6ce",
+      "ArXiv--2": "6560301a09ec58735d2cf981869f37dd8901bc681ed8c4e88e6977ef9c35f63d",
+      "BBC News--2": "48702204b47a6f88e287ebdff001825812c14eb3bf6ac6c2375983c5e6a07b63",
+      "Booking--2": "b9c80555025643b7dbfabcda91edbb50075a8e8fafb769ead75970d6a1e4fd08",
+      "Cambridge Dictionary--2": "2a904037e8bdca5538029a911482e9a002f8a107e0281d605e14556f0d9ca54e",
+      "Coursera--2": "91534e51e7cb4265449197e3d71bdaa2c8aa3f90bb38b625f3be57d852d0a695",
+      "ESPN--2": "d50aebdeb2ca3882fbd8b633059f380ffd511a1943fc813de44503e2b303e501",
+      "GitHub--2": "38ce01f6ff86f350b2707131a604a560b3630b84544c0e42ca33b47dfc4dde34",
+      "Google Flights--3": "18be12207b1cc35b3a51fd45a2ad3a1fca04fc1845b0067b3539ebe308627027",
+      "Google Map--2": "d5dfd7cf07e8cc69085ba865c2f9e8258e60c86cec86a4cefabfb159fcfa64ac",
+      "Google Search--2": "7523296bf4f38946d39f608554db0d722b353a5bbaf6c7b9aa71c9fd99af14df",
+      "Huggingface--3": "b0e1d246cf1b508ce0d700e76a7eda97fe58d1d0b55311db0c97cc755bc670e6",
+      "Wolfram Alpha--2": "c8fc6e2057ce79f869fdf25d39d39508d18af578ac94f639bab12a60c0bd11f8",
+      "Allrecipes--4": "0e812c6bdd1a509a55b6f279dd24b73747c99c91bedcd294fd26105a562c51c5",
+      "Amazon--3": "95ddb7138bebdb2569bab2a829810450677ca060b36fed91b270fdf5394da174",
+      "Apple--3": "d0a1e61401cb368b601f3b83426b18fbc8b175052ae55307ff72f0b87f15d897",
+      "ArXiv--3": "8ca67aff5eff3939caf5f8ff50c24d059049a160a1f5363be141b748cab6f5cf",
+      "BBC News--3": "ad8ef3c1d0c63219c9dcc06772d386cd5eb7ead408bb545a66dbcf9cd84d55ca",
+      "Booking--3": "085008e653ddc7538ff332194a2bd441423a4472a711c9707fab74f8c5c29606",
+      "Cambridge Dictionary--3": "1cec8c096185a46983648dc110bffcad2f8ee4dc03418ef92d3213817ad6706e",
+      "Coursera--3": "e93b3b31959b9f3ebf831ec0b2ebd29888f8f7270f12c85c4c3633a6161619a5",
+      "ESPN--3": "261aa567ed5345f941a1fdb7e0759c5c9420d83608cb900e455e14bdb12c9296",
+      "GitHub--3": "3bf5efcff58bbd9f32b4435666d866a7d023fcb024bfd3a6593ae1e994aae4ee",
+      "Google Flights--4": "62ce85783046f9efdba5e5041a94c9e2025d96f34b70ab7b93445336194d597a",
+      "Google Map--3": "799abb48aa7095ac2a7baf68780cca94368224311eb5058fca64e2cdb93d24c6",
+      "Google Search--3": "289dc8bc3fb8590307f003b6d92ea4e945d21d736c79ddc494d823fa2b33d370",
+      "Huggingface--4": "b293fdbbd95afba91d3de161772148670d06de628968c42e05549627bf44ac16",
+      "Wolfram Alpha--3": "8a74934f2d0a7df1329b699694b380631f55c4002fe88d6d73d2dfd56ddd1df0",
+      "Allrecipes--5": "bab5cea60cdaed6f22dd7ef56622aef1c3d816f8db06636a38710537f6eb8841",
+      "Amazon--4": "a437c0f834d5fcd8276cac06e0c4bc2a8da2fb305305ad0c8775c9b4df8c06fb",
+      "Apple--4": "f064f66997766035c9f9df24d89ff105a29372fe7551d922523c6da735cb51c9",
+      "ArXiv--4": "03db7bbba92f7d46d67cd260484b13a99b104427c35867a2cb0cedf38f606edf",
+      "BBC News--4": "bd54f35b14899e0eb45be50182a27bd372670e7bc162b2102c43a69ce59bfb6a",
+      "Booking--4": "c05fe7ab38cb97b0f28908ac82ac8806de34f7ee2854545ccaa2c3a9dc2aeb33",
+      "Cambridge Dictionary--4": "0b12c72541652fab48f80e84742892cf6fc33fe4626b751a1f8ee85872cc2ae7",
+      "Coursera--4": "58b878ecb258d56b9491e1e9f1fc1481527bf1755da09d2548e23a1bf0c6c415",
+      "ESPN--4": "209043bca81d52af9c44f73a787d4d05485e3ffa3dc381382439091e8f9c9317",
+      "GitHub--4": "c3008c302415bcdf7c615c50e516cd6cab6f72a436ec610502366e6cc0b927ce",
+      "Google Flights--5": "98b86c5b2242fa3291ea79287f697ade3d8d03c7642332fadd00474b73d2ec28",
+      "Google Map--4": "165abdf194d3fc3149813a76fa02d882ce91877c0f44d3bc2cc23b7e57b7ae1f",
+      "Google Search--4": "79b4a2d63dc0e49d981544c1070978616abae0aa033fa392d76f4e290cc73d6c",
+      "Huggingface--5": "3cb274b068f436cb10624ebc18b596d51e5de17b3cca9b314989300466932f77",
+      "Wolfram Alpha--4": "9b38a018a753a6b86d6006e7526b5bae674d1a19d8b7051ca4dc5f605596c765",
+      "Allrecipes--6": "90cd2b580040ad444baf166a0d990f44b304b7a0afc576bb195b41de964231d8",
+      "Amazon--5": "440dc023a735b5a1be251a2b6d0cac82b2c6216de2cfc099227a76d5496ce02d",
+      "Apple--5": "2bcb69de9e32b88eccfcb9bc2e02287a0a36f171267dc13b9a6ed5c801c4c627",
+      "ArXiv--5": "4aef00c20caaf3843ee39a17e2f4a91f8cc4b77c4230cae7ebed8592382ed84f",
+      "BBC News--5": "6300ec7d5e39e3f36064063a5b8ea6bbf1e3118d5f23acc161d7ef58535dc58b",
+      "Booking--5": "06ea80b3f462e433244c030881de70cda5156d90e227758c4e11d7b451339354",
+      "Cambridge Dictionary--5": "75591fcf0ebcd2225cf84250784fc579dbfc8e3971676e5080f8f8b842326fe7",
+      "Coursera--5": "9e4cd96829817984b59041c342010bf527aac9b41a68b1ffd56b64e53586cdbf",
+      "ESPN--5": "f43e39a81a1449a028c0607396278f5f37f093136db518feb2dc5a3c2212b212",
+      "GitHub--5": "5de68683196c2a98c4912914de4f3021922899a9bc905beddf37a2799c01015b",
+      "Google Flights--6": "60eeddcce4e3706ecaf7fc50d29368a9a14a26c2d4e5057fa7661d745158135f",
+      "Google Map--5": "30522fa29f315c8303adb18309239e5d3101dac447b743f0afe214a539e84329",
+      "Google Search--5": "f9723931150d2b0f061164bc1d8b884be092f76f93e5d5f2db1af74901ffd239",
+      "Huggingface--7": "586d48153335e244a3838361dddbf813c828cbdbd5c561b722d20d7834a9f169",
+      "Wolfram Alpha--5": "e1b9058d432fe2b8ec9a741194b31b5e55556b139e2f2aecca6a2877beb208fa",
+      "Allrecipes--7": "fbae6a6a461f0d6bf49f0ed30ab55bbe97ae93495e883be0259885507513ad9a",
+      "Amazon--6": "1bc8059c6fd2891087b8a96ea6370ca5141105bc020027b15583a974abf89928",
+      "Apple--6": "c5530e0983d6a20e8f035f0d0704c486220529922cc1ea97666dc2f9c7a758db",
+      "ArXiv--6": "ee4ee61c3551293b3929e88b7549ef26e57e587a330f4250e3f9d46af53c440d",
+      "BBC News--6": "8ca395aabb3250778137da553af3bf16119bcd5bb5b7de0add94058149c5255d",
+      "Booking--7": "6137f1ccc706efd1eaebe7848aed9b06123a5344d5f6024e64377f0c6de09c87",
+      "Cambridge Dictionary--6": "918528617aa68d6fb1c75ddaca8894759e58e4850045787141608ed5dfe9873b",
+      "Coursera--6": "7b4f790c06e26ee753cc79b97085c96e70bed23094d440c7bbec973e6681f36b",
+      "ESPN--6": "4a5fc1854840aebbdf95be714a443ebddae47a2b8a7ac5e1f3f9f595383a76ff",
+      "GitHub--6": "fa00ab0a528be9335a41ce2b8fd12a48401140c94280a7aae8a2921befbb5df1",
+      "Google Flights--7": "8b257bcb60f6b6aec80770ebd5a0cf0755313540ae52835edfac3ea534e89e1b",
+      "Google Map--6": "95708a3644bae017cdc1c107f9581f6e38707b11f651ffd1e2e0b659dcbd1bb6",
+      "Google Search--6": "189920ec2f68e6007942eda0025e87803072ad0f0383c955ae2598d5c48a7c24",
+      "Huggingface--8": "68d831d7ca5c6612f490af099b67eb61b72eeb3ba6a6fba0c2454a70b2a31e83",
+      "Wolfram Alpha--6": "4ee52cdcc83d93fc3c1263c8d20201dfc470c321a947b8c452341a759f799df3",
+      "Allrecipes--8": "a6bba40d49aea8ee7163dd6725e84ea9103dc5ba7ee2cf6c8cc1260928d2bf06",
+      "Amazon--7": "5fac1c766f8965ef14286fbe914e7b3eea557918e337c05c58fa72f6a0ea8925",
+      "Apple--8": "77e93737c1eec2670f3ed701403257646b8b80e4e01166655364dd7d90a78dfe",
+      "ArXiv--7": "9a01797b40afed00239b3bce2ccb60133089babb414b92826d395d2c0a47f586",
+      "BBC News--7": "3038d9b2ba3483266c2739d3bb86609de003470b23e525294cac8cb0958805df",
+      "Booking--8": "ba7a3b82141700453ca3e4fba4ecbeef5d692972bf39cd4d116075e26ee8d852",
+      "Cambridge Dictionary--7": "cd05018e314d8792cd3943bda7a5f2a563a7d4da0a9dd39875d7bd3b9d19cc31",
+      "Coursera--7": "6b094c90a9ae4d11363a3426008f5901438e93ea833bcff2d9fe0cfb92707fcc",
+      "ESPN--7": "785dc32b26381d1ae8143642e236d26695262ea81e531b228f89f1ce172c67fb",
+      "GitHub--7": "1d4fa18c91dbee60cc53328dbb33aef1ccbfedc8371a943a6bc7633bd17796ed",
+      "Google Flights--8": "174fc8948ba15f92f5060867b3d8cf354f8759d3e7cfcbc3ede83175b03c0831",
+      "Google Map--7": "26a8241351176fc6666c5b67223f2950042db044b16f1f00ae8eb98d671029e4",
+      "Google Search--7": "b039f842ae78eb0a98ab750064b01cf22831ce25444be071f141d5c73282324a",
+      "Huggingface--9": "78b9824a39c6d954e0a12fa239e88c299d89ca4776dc91a385ed3c3d6e27de3c",
+      "Wolfram Alpha--7": "4b1972bf0d933675a53041c186d98d59f20caecdc4c1cebe88bf48590da34de7",
+      "Allrecipes--9": "4b016b965ef0d82b93cdb55411fb9fd15512feb47af4f8816e0a1c8cf94595a4",
+      "Amazon--8": "12572f4446a1bf982ff9b4abe4e89e4e9b273669d0a263baa1e9c98c75636686",
+      "Apple--10": "fa70136f195986d7e45306f86ad07bc2d9f5d020e4ffc24ad45765e8dd07b04e",
+      "ArXiv--8": "3597a1f038e7acc357aebf6cf9fb33b988f3390b3386b8d17bf1f483b86534d8",
+      "BBC News--8": "21844ebbc2b704e1623ebb89e98f9d73d28e1efdd408a516544350a4d685adb5",
+      "Booking--9": "732a40f7b7b141acda2652e698ec2d28b13cebbe11ff5617347f058c6572b8a2",
+      "Cambridge Dictionary--8": "a7f0f1d825ae41389990b420f9d1c1b3747b0ff73152e97457b48364551fe54e",
+      "Coursera--8": "12d1ea0c63f840fc81f61ed23b307d178e90d87c20a4ae3db2150ac8f2106ce6",
+      "ESPN--8": "102c406ad6b1c48578071168812b884e739c5955f85356a222446cc584a34e9a",
+      "GitHub--8": "fff84bf4f24ed7af30050940dab5dd9aa091c315585f961de698c1b1fd54fce2",
+      "Google Flights--9": "682b39e5089cd1668da770dc9d6ae3af518e6a29e301de6c898b3907d3f37fe0",
+      "Google Map--8": "812ef9b98711a21c8a9a9584b769bd893fb191013197d9076f1d85e0f2e8b6ff",
+      "Google Search--8": "0cbfcb841d15ce0b6a4dfde301cff1551e6753619391397e07f5fa944c16ef57",
+      "Huggingface--11": "e4ac0866caa9ef4e0600a65abfe76571e8f7d724b72bf21d343be56d57c1f42e",
+      "Wolfram Alpha--8": "8d0ba53992201caec85e87eb90311f532ca16c73a276a8e73e6f79cce202a7d4",
+      "Allrecipes--10": "7cebee6e2575660764295a848d8e72967ec3875e21ff6145cc68d53e97a02dbc",
+      "Amazon--9": "6f3ea2e0289ee43ec1f91f95944b4f7657e0ed4f7bddfd6ef6afd1932e3843bc",
+      "Apple--11": "c461d2cf24d927a8b1a80db73ef8c16485caf61445a0ddc13b5e86b04c4b0473",
+      "ArXiv--9": "bc67bf5e74278d885ef692d8e8328b0981c2fcf8c735febf3b6d4c55ae1560e2",
+      "BBC News--9": "08c25a4300ebb706c230f2b8710d6905a66eae702353468587c29711e76cf034",
+      "Booking--10": "96cf2bc861f0a55a66acf712eebf69b865366ab9adcc42828ea744b5d41faf94",
+      "Cambridge Dictionary--9": "290939c644bc326a88dea742f5d9548fd0c764306b0f05130487a720099efe5d",
+      "Coursera--9": "5c6394342836bf8496b970161e985b898369f05ceea20bf786f851c0f795b9d2",
+      "ESPN--9": "c25c74dd117397f90994c422f7e9cdb0a3d88f1cff780f79bfeb4a51cd07eb1c",
+      "GitHub--9": "580a270a22cb0974a8f3673f6df35af0d355ea6f8c0fb87bb18c8a91d4ec7df6",
+      "Google Flights--10": "4ab0b304aa7479ec4e24a596b57be6b5201e091d481cb0254549749a0992a351",
+      "Google Map--9": "801aef5052faade5e96d95a0ba7f5db33dd56b6f666c125c7c145245294c7a1a",
+      "Google Search--9": "0564a0b484ce3d731d480950ce3fa61418af0bc2da1d4b7f7640bdeeb5bb7bb3",
+      "Huggingface--12": "af989adf3f14c4ed656f33cb080c7880504ed7396ed3d7f37c8450001a4367ca",
+      "Wolfram Alpha--9": "f8acf81f535aa6def6e419420a961579a470fdc1aeafdb757cf399b0902d5d56",
+      "Allrecipes--11": "3b34483bac39b19c848359b7cea2473c65906e14ad2c230fd27a111cb6ea0c93",
+      "Amazon--10": "c63c5e9db1e2d5c4df6a6ae4714c1fcd3c352685eba1c3e270aad48ccc48ffd0",
+      "Apple--12": "ba4ee47dece22ad9ab0c188a816498685f163b7e0e45cef64d621de7cc7bb518",
+      "ArXiv--10": "8ce7ffac9126e7977438a7cd2f7e5cea426b435da69a9e40d9a66e442b16fe41",
+      "BBC News--10": "640c30eb7b6694d0dc305dbb232dcbd0486746b53b3313b2f13fb5d8433529ee",
+      "Booking--12": "a343d30d0eb237349e1208eb94068f9fa9ba4b1c9f8f3bb24b75851e6b416e03",
+      "Cambridge Dictionary--10": "52f1b057b1561f4d478fb1d02d8ca9bdcd69f6646d46faf694f5cfa21b36660a",
+      "Coursera--10": "6eee0f069f16686b3f75b282a7773552b6bb3a1ca65134b85b1158374d74ef0e",
+      "ESPN--10": "569864d610dbb9a9fe5612afe811a0cf5013c0b27c8120958f75c44ef69421ac",
+      "GitHub--10": "da150b33a4f81f88964075e86bd5b15eaed570a366502944f1d85ec15e3360a2",
+      "Google Flights--11": "2b807bf5be91d3ce622e5d0df0407056d81669fd24eb16123900ddc00577015f",
+      "Google Map--10": "516880548ca87c045f7c96fbedca4f62db11de8bc650ba5de73529265d0c575e",
+      "Google Search--10": "6e81e5ce10ec10053d5afc101a2c25a3cf17050d1cba94b8310e201634be04c1",
+      "Huggingface--13": "ea20d9c080a343fb314efd7cf2d18a3c7c8eb4925fbb597322c1f937bb47c1b3",
+      "Wolfram Alpha--10": "dc0cf0de84b75ad736f2f0fed1f610da1b4b8c7d17f666ea9d7d990023ebd2f2",
+      "Allrecipes--12": "80ae1d09a92b226889025c4579c752cc8babac9043959a6e8282e8a2eacdd4c4",
+      "Amazon--11": "0c9a8b0cf5fd91c96625d737db4083c4958dc2d9dda39a0fa9410f45bbba025b",
+      "Apple--13": "541900dc59f86a265a353636c175026d4c73d790ebd1d320728a5ec95edf6038",
+      "ArXiv--11": "9f001226ed3a73cabff6d2ceee7e444c66456e8a3d63c2b6a20d710169f3e88f",
+      "BBC News--11": "2f70273a4c5cd7afc66ecdd7b5ed7b6dde0986f966cd7d5f6cef924dfbabc8a9",
+      "Booking--15": "26b329dd3253d0c75373f411013472c61f68c44a861ed0f3983550bae3988372",
+      "Cambridge Dictionary--11": "a20c0fd6c16d7cb1d3bd7e91f1e50be0a90ac70454d411b8c77cb67bb926a26f",
+      "Coursera--11": "1ef7bae51c359236c4b216e8216d6a64c7aa3051ee38492ec02d0b88399ce107",
+      "ESPN--11": "35fa3618cf635222cd82ed2206cba762ffd0863fca9410c0b8eec0810cb13b1b",
+      "GitHub--11": "a9f0753cd6bc14671ae46c180dc840dd23a2458430f48373d7b29b6bd1429af3",
+      "Google Flights--12": "96cfb0b0740d080562edfd42cc214c4f0a6978b30962a46652ac070d7d87ebf6",
+      "Google Map--11": "8cc5d9fc6baf5fb7f6c69f6e2dd85f72ee115ef449ab92a90a56dbd547d80d7c",
+      "Google Search--11": "95775423f87ed8efcd0fc55ab07a03b7b37d59defe6cd9195b10308c7bcd3c62",
+      "Huggingface--14": "0eadc87ecb2feb2d3b950270e489c381780a63ef5f13bfb9419c96e3c87085d4",
+      "Wolfram Alpha--11": "a9955003a4e57c657234bd3ede4a8250481f0da91cd5d6c8064d65f963cc13e2",
+      "Allrecipes--13": "4dd909559c8f13a2d83468d162521d80a85c513b5ef384934506ec807d3ea6d9",
+      "Amazon--12": "7c5569f0a46fd000a2f05f3f59f4bf4a1e4aab11004e47debcf0ef92f6fcd8c0",
+      "Apple--14": "cb5ef552aac402bb71503ea717fe5f2a3c5132b58decf37ab6c140b4af073d57",
+      "ArXiv--12": "eb71fa0b1409e11bfd0c6ff89765c44556dd78cbc8b0644c68764361942a2bcc",
+      "BBC News--12": "16ff1b109685e04bcab8e472cdc5f4e66f0cb5ab36a6fc94bae63c9dcb29a334",
+      "Booking--16": "f90db36f3831850bb2e20126e32ad4e1740cac6cd3ea52226396b2eb83e3bd46",
+      "Cambridge Dictionary--12": "1e17acc86aef78dec049f0d2ef6dbb841311caf8e1bab862195ecc75d0752102",
+      "Coursera--12": "81b0f7b327a6dc50a651ad91f08ba316f4cf77d232ad31bfc4308f0f57e91e84",
+      "ESPN--12": "7cd85d0272451f0bb73e929e2cd409c9a2c9aa08e554793fd748049e66797ecd",
+      "GitHub--12": "bc14521d8410d900fd9dafa8507fd5638881e01469a6f7f8bac33c95e346f84f",
+      "Google Flights--13": "ca531a5b66d0c831576b6e807b4be2917dd45daefdc5be7007eaef248e699031",
+      "Google Map--12": "960b85d2b5f22c2678eb00157ebd27bee65e1953912c232264eb227656d79388",
+      "Google Search--12": "68830b856bf3e743765c1170ffc226005d2efedc2dd9ef80384ed6a12ebcfc27",
+      "Huggingface--15": "58cad29a0cb6eba909586e0b94fbba0843b256b84565c96d5cfc2adca160de2c",
+      "Wolfram Alpha--12": "9fde0015588bf698c37256c1afe012a4a9fd9c560c4033740e0f5165d69af8be",
+      "Allrecipes--14": "9b520e16aed055c4f1af4141dd2b62f0d5a0397fc32003b568c5043d7626b3da",
+      "Amazon--13": "5ce08825302d3f44f80e6b641369d326e9acf91e12a1cbd78df2898418ead1ed",
+      "Apple--15": "3e8ec19f2572ea55a7d67f6c57f37a6b36ea9456d199826e71f5479053418419",
+      "ArXiv--13": "3d9ca55e99c9c35feadbd7f0ed7380162a010e9aab2c53d7d7d0372ebb1c56de",
+      "BBC News--13": "993938cc9252c64eb62e00c3cd99b1101622e2519ac74636f4e0dd52f2e2369f",
+      "Booking--17": "850113b20b27d4ce0a2f4f57970b177f8a4ff739f1e9b2b547e18a92a61e14c8",
+      "Cambridge Dictionary--13": "520b0214804ad9384979b7c93a9d90d7914b81b28ecefeaa6e02a2e81fd72a4a",
+      "Coursera--13": "90b16a7b03ff968d811062232527d0c2eedfb0302f2617cea7e192c1718ceb51",
+      "ESPN--13": "e7eb51eca8c0fd2576120b2ed7236443c8f3008a73b93d5dc8f5c381c799bee8",
+      "GitHub--13": "1dde4e5128aa5b47688c785f3f12198b5fe3c92499af12f22d5effde97f12e5d",
+      "Google Flights--14": "3d461d5f6d5e0c4296323e4508163adc714fdbc272c667211869c9a5498e19bc",
+      "Google Map--14": "b7241b0c7192afd89385be328800c6231177b5ffde85e723e4486ccd9b7b9385",
+      "Google Search--13": "7a2bd122e434d0519e1ec4a78cdc9c6f3a73b8091a72d99d715a361ceb41a5a9",
+      "Huggingface--16": "fd8e5722cc2a00a30b5140ac3b267dfe790fc1f9b72545294b23edbc8f7d8cbd",
+      "Wolfram Alpha--13": "ed272dc77b7e870cbd0a5d5dc1afc33ef1fc4f3a9ff10c6c474d9c4bd1e14823",
+      "Allrecipes--15": "658b77e596efa275e39a6acc93dcb98eea8c2039b57e0e2c2fa5a2245811f7be",
+      "Amazon--14": "bfed88c340137c0e819e68f315b6b88fd0727eaf63a5e0c241da1c1c2e674632",
+      "Apple--16": "1ff69f55b20d011b18e8824bd5a7c9ae7181dde0e4c69bd42ca02276fca62063",
+      "ArXiv--14": "9b4405516432a07de6c39d90e9224ac10e336e35641d32adedcfe88ae70093e4",
+      "BBC News--14": "f52703808c4f6065b27cc4806a556e5853dd358974880d170859de4aeddb8b94",
+      "Booking--18": "c32ce9296f82fe8c013fe8a63f9df0031e7a795946581fdc9a8892a6ccb7b00d",
+      "Cambridge Dictionary--14": "04452c5ded19ab199c4dbdadcc71b401b02fd0123019af208e05a27534087484",
+      "Coursera--14": "821eb4883a07844a642a00bfaa4bf1f394f14b736a1e3a42bcfc7d780a10352f",
+      "ESPN--14": "1da5fe6e76cfed15dbfa4304c3def786cdf5f0203bc82af498f95aeedcd2f5d1",
+      "GitHub--14": "772a47418f7924e91750766e69b0939c01a9a3e1b1bc1135a7e4e7b24b1e81cc",
+      "Google Flights--15": "bcf80fcf33f1725e676b987a0b02b8a43e2ed7425c5f53c641516e198f1bde1c",
+      "Google Map--15": "2658a166dbd2982262dc5640fc52096a57a22669c62af32d9d810a1f8c23f0fd",
+      "Google Search--14": "abe4b4668446d2f37f994211e0f35fc31e5e7248a426def8233a211f0b0a9615",
+      "Huggingface--17": "d20e420e6f1f8c1747296408505822abbe572cb1e765a16a85f1b30a961460b2",
+      "Wolfram Alpha--14": "538398ad1cb800c4a009984ea058b3077868b33c0a57ab6591285121e0fddc95",
+      "Allrecipes--17": "ed5f7a6d46ba41ac8f6e3c3537c80876b359e92ac87ce1bb86b517be6d71d29e",
+      "Amazon--15": "eb0d69a467e75a244a2c79187b73be216a05771b432eaac93d130a238a2df08a",
+      "Apple--17": "3d54ba1ffd887bc163cd1df2368b9f8132379e7a64b55a45b8a436e084a04aa2",
+      "ArXiv--15": "7caae3fa16c64ff6ae946951f59dfca6b3847d39f174fb01b589427a5e335fae",
+      "BBC News--15": "ea4728b1cb70341c8159b1fcbf50546d705123c93b6e3e2aef6af74c3b4c37b5",
+      "Booking--19": "5644c7f3c961940ce03dc47006f927b6ebec2b02987d1db94d799fbe5c9c7d95",
+      "Cambridge Dictionary--15": "a22ccababe4fc292cd9f7f020c79a823fa762d00a4f177130842bbbf9db06f9d",
+      "Coursera--15": "4297d7c1276bf15c27fddc61a37080bba8ba42321c461b7bb363e6faaf03d9b0",
+      "ESPN--15": "6bb57f72a7afd36af06bb9670c319fe6be1b4461eb6a001461f51dee502f7ca8",
+      "GitHub--15": "f7a2545b5561630de2ee6a72c7a5f6ffce15c820a2021b6ec65e38b0c18da6ae",
+      "Google Flights--16": "0195c730d4213a0dad24503149eeae11da8d4726ce3049a53bd73a5fba30df0a",
+      "Google Map--16": "d4ff497fcef7f3403c575c25fe7a254011a1ebcd54f8eafb61da9a97d4e333d8",
+      "Google Search--15": "2c503a3ae2406d122f56db7a043e73763dfabb6a6d9f3dea775f385a051a21c3",
+      "Huggingface--18": "fd46ad2419d791874384836827833da6a4d2db1e456d38ff7cb9ceb72ecccd6f",
+      "Wolfram Alpha--15": "ec0c7b909c2c87ff0163ecf692eab2fcf841be36c887fac48c33e2d3de6b223d",
+      "Allrecipes--18": "91c404d8552817db1e1d349659f57fd14b8172ff31257c82c405408da94df221",
+      "Amazon--16": "42f432732866a6323788e9d0aa98852fafa8ccdf65ae0d06327979e9acb0bad9",
+      "Apple--18": "48725696c226dce1cb9ec19d8b4d5f9b41a14686d620c1a51db61e3f57b64cc1",
+      "ArXiv--16": "a86a46638162d5d6d5da69b24a6e00b69b49d285af64e7fa69876a9eabbb4218",
+      "BBC News--16": "1df0d33075534c762528b672f37dc369782269967ac1fe80257ceefd2aa7d45f",
+      "Booking--20": "7b144a4c1fd8b13b7fdf4ab1e296540b79d35cef0706bdf2a8af4138f2e3d9e1",
+      "Cambridge Dictionary--16": "2c0f26de34e2654aa2a587de0b7f608e7f720c6fa64a92a8d9385e32ad6e9175",
+      "Coursera--16": "8d50fc1e4c8b3770b3dd4807e7faf48a3899293c80302d4d0c33f2b0037474b2",
+      "ESPN--16": "29ab802b0362eba61d0be1273152bdc6340a29784d4a5ea5be50b5fb75a126f8",
+      "GitHub--16": "16a08dd1df7078f8deae53e758faee8d868aa61c7b5a3901421ae939bcc79215",
+      "Google Flights--17": "e82783be65e7b13a818ec3eaf6440b15937c2818251fe7ee9d5890cef34e2779",
+      "Google Map--17": "7e38999c01d1fcd76956634e41ded51b5b1e4050e3985153722b512b95afe5f5",
+      "Google Search--16": "ed9e5984c02b22f8ad0ea0cea9dccf344ddd4ebca2814863c3f022d79eb8b824",
+      "Huggingface--19": "d55abb23dd3da5a6f3685786dd18fa176a0f9f2274c677be7338549b511ff0c7",
+      "Wolfram Alpha--16": "e94e739806697e35c1a2ce606ccc6a708bb2621535aeabf70c513f4b5cf6d142",
+      "Allrecipes--20": "2caf9daf5675b296e7a817fc760f963d3f25c0eb27bc11d77f6e6f1e0cc89278",
+      "Amazon--17": "543c6e4236adb1e2edc2d4bc5e48f4bc559db6d27b8936acb0fc813a32e5aa42",
+      "Apple--19": "738b40a31d8ab3d10502714fe979dfb64f323d6a0f3f3abe8d5dbe67e6a55661",
+      "ArXiv--17": "0170c7e462dd4ebc7f41634a32fb00c9b862ae85b0885fe4083dac3d15a8c6a5",
+      "BBC News--17": "1e5832f3fb1db8296d3d50f28246d16674aea78b9133624b28a5edf36851bc44",
+      "Booking--21": "b9758fd20105bb8fbe1a0467bbed8bde7803109644a6c485b3e64cec43d606f6",
+      "Cambridge Dictionary--17": "0a72c6911020fe272e7232a6abc0f95a4ce3417fc6e00288a034056643fd9370",
+      "Coursera--18": "adaefd815ac6f5571a2bcd257bc7ade109080e57bec343eab41c3b416603a00b",
+      "ESPN--17": "1af5b5019494eca9f15e7240dfc93e7df8c3b636f2bafd8fed0cac4db80607a6",
+      "GitHub--17": "8a01b83ba7f767d536bcde80f2517cbd6c1f56e2892fb816eaabbd677f29d819",
+      "Google Flights--18": "b9c85b9364ce7960abb4bb49c8a801913910205f56183526f01ae2a5e462bf5f",
+      "Google Map--18": "2488c08a35a62d59cf2e251636feabfab1b929f29a8b7b6adfcb010034331378",
+      "Google Search--17": "2c39dc11112de56ddf3881851a1cc708b33e3e2b76c5b5e99fad0120f08c10d8",
+      "Huggingface--20": "ce8a29872e17492f126a8ead5ca004c84c73e1bc4b5d74baead67a7fe3db2672",
+      "Wolfram Alpha--17": "c25f55296260e086ee81c468f4871d6da0b3639c91d51c53b21b470ec3a44426",
+      "Allrecipes--21": "cd5e6c11228ef7e4b30ff69f60ddca32f7bd577fe0bac890bca1bffe12c1f094",
+      "Amazon--18": "9d3b725365614e5136bf7377430200b1fe620740213fefcf19826e0c46bf67aa",
+      "Apple--20": "2eef1842af1ca48bb6488e82b275b306debc391c5a5226c8cc883cc7b1dd1607",
+      "ArXiv--18": "51c57d64c1c438d25a6b18da430ff330d47fb4bf25be3076ab51bda777d9cb73",
+      "BBC News--19": "7d7deb27c61eb273d8f0282dcc7248700eb4760ebe75d944a3832842051bfa9a",
+      "Booking--22": "1feb45d633acda235a07ae0e36e197359141393db648f64424c9e0e7ee8a6e8e",
+      "Cambridge Dictionary--18": "25b8cb75b0d4d6bbe3cb04f796e3bf06320270781945ed1781dd468b109b73e2",
+      "Coursera--19": "c40e279c518758ef9dd263eff8d685015a40c381fa78f46714e20c5b971c989d",
+      "ESPN--18": "183bb13af04358036857ff66e03c7b3a3bc996897cfd5fca22a565e2198d7924",
+      "GitHub--18": "3edbf711e360ff3d2ada7cc1c3ec09408e98ed9808e172ad1321a3ab137007ec",
+      "Google Flights--19": "0963991401fea8a0b04c0b40fe50b111f83063b8a2ea84f29b9a0ee210454e0c",
+      "Google Map--19": "00613e3f435e4640e4a9f7666726d3022492f47064745a873f3187ec04587fac",
+      "Google Search--18": "4fbd3df9638e9a08d1ef069270529c0f6b514017d317b70f1c4a6fc5b514f768",
+      "Huggingface--21": "6e8b4f13867e8cd9c0e42eb39d3734a7ebaf7e778bcb67ed4461fb472d2731c4",
+      "Wolfram Alpha--18": "dc436e9405d5cd05dd859b3e381645391ad90a9f8b06c3ad709d8fca03541221",
+      "Allrecipes--22": "3dc01833e4d7524603f65c76b39002950d852c8f4bf03672ec1ebfa4021443ee",
+      "Amazon--20": "9f872f09e1a61c73f548de67533d79206545a6e0dfc68d66beea61477be66f48",
+      "Apple--21": "91484f78fa37b69d8f308227e0a8e62e123807d8af7629d42c8c90ed2cc3e802",
+      "ArXiv--19": "1bb23f23548a1734121e9acc029598549763769273df8221fdd1b9f6c070fadf",
+      "BBC News--20": "afcf8bfd147031f9c36c142a4c5e0d750066b41bf198c21db05758c33e6fff54",
+      "Booking--23": "96e53169b297ff6a28e72ab334dbb23bbe22df8c06dae54ea337cbeef60fffa2",
+      "Cambridge Dictionary--20": "39d6dce6fa4ab7a80b7aa2a90aa5f94600a3ee3241096c98695c7746c1aade75",
+      "Coursera--20": "3240f9871d11a5c76bb15ad0b5f1c0eced61bcf625f6ff2e7b68ea8f475361e8",
+      "ESPN--19": "c0d0ec76be99afa246e25ea87ec88954496df0e8c8322a97050716dface089d4",
+      "GitHub--19": "6270fbaae5b4c25845278a06d349f60c189fa483da0d34443bd3fb85b681c913",
+      "Google Flights--21": "acbaf439769391371e6428eaa30df113423a5a8cb28ae133e69deeca11073a31",
+      "Google Map--20": "a481fae39b5f27f2040f5b51a955f4aee3b6eb5a704f9b3c47199ffd605db1a2",
+      "Google Search--19": "1b463a075cd80e98d9eb827192eea6cc0607f8d66c80abde6fadeac23ea8d3fd",
+      "Huggingface--22": "31fe1f8628e8362d281be869d3214fc55215a51b179d90dc303e742789cb1de4",
+      "Wolfram Alpha--19": "b8991b8a60b7543a5cbcf895cf6d15da50964ac5dfca45eded6c54107e3ae95d",
+      "Allrecipes--23": "288a427b0e03d758600034263b251fb4f1ebce8a52d165f2c9ff05e6d4fed1bc",
+      "Amazon--21": "f58a44f8766da0c5d9231783131dbb38f7bd9db08352f9e604b1fb95fec1ebc1",
+      "Apple--22": "57daf6eeefca9f6d81b8e2e19a3fd2641e8ec836bbc51c939268cab982b7e41c",
+      "ArXiv--20": "3fc1a0034e8ff11c9aa550bc011a13238eed58c9b07f00751d9e12368cc3e28d",
+      "BBC News--21": "8ad3cbfe028a51eabc76092677e12c02a4b1a3dbc9caddd78998a1eedb932d9c",
+      "Booking--24": "bc8beb81b4f986618e3c99055288c9c2d081e82d709ad9d3679c46a6f8018539",
+      "Cambridge Dictionary--21": "5109d5fe5eaa45cbd6dd8005dc03c58e72e46888a5de741290b6df54e63ef763",
+      "Coursera--21": "42400f5832b15e4d1e800e3982c8c970bee8e161f253c399fbacc74348c03297",
+      "ESPN--20": "7d20c881ca14031e3e9529270ba2f48895b5b05e7835fb762097848f64e634b4",
+      "GitHub--20": "84fb2e53b2f475383e97b51f318eebc80ba4886d58da140b3636d69df58e7aa6",
+      "Google Flights--22": "fb7219f5d843b030303d9b84e598c3643192eb4306903fb05891dc78688cfb6f",
+      "Google Map--21": "8ab45a53bbe2344ad230f6cdcd38a553b0d594eae500095d2ba7878c4c9c2816",
+      "Google Search--20": "e7ce75f0c8061df815099d7130c9972c6d3d922affa4c08e4e26937b67ea07a7",
+      "Huggingface--23": "9b09e03c3172eb47cfc00b8d59a8fcb32532c636d0cd15bac62cd702ff64bf07",
+      "Wolfram Alpha--20": "bff632cf87c576094bdb5c066c6f02edc2558c23f00cafa9563fd512a46efe71",
+      "Allrecipes--24": "af3c04ef0eae23e420287566764f2a6e6a6ca60f64d04ccac0eb4c5779e43151",
+      "Amazon--22": "3bd2ef1a1cf182a658d1e963aa9d0c293cf821c78023fffcf11f4a0448cf187d",
+      "Apple--23": "2451f01e222208f79fd9efc6becee227dc6a62ce28f04e10868d64c6631ce337",
+      "ArXiv--21": "5226dc45257af4e8a29a61fd57535ff8543071f7cad2918157cce921c93baa11",
+      "BBC News--22": "453a6abd2760f1853341e077186a86532ff03932ddea3fbbf1b38e04e614b7aa",
+      "Booking--25": "a7c0e39ac706500fbdb8626c5a840d8d5d00822ee8487ba10c3045524d7b91ff",
+      "Cambridge Dictionary--22": "96bcdbc281f8d8d3ce3ad450a0b3dfb304c5b46750b817f3214fa89cf57523bd",
+      "Coursera--22": "bd10d6eb41a8e7ffddccbd1bf22659f87e0c739136ae9f37f3f886c80cd22764",
+      "ESPN--21": "0b11fbbab83441bfbd3ad7e956ed0a09aedf1602dbee9624c408cdc92294f272",
+      "GitHub--21": "8ab108fe500e36720e35f1fb64aea7300ef96a911df9685e3b3b43c8e5cfa81f",
+      "Google Flights--23": "134f82f97b0e459ccc83b88c4c9dcbfc6d51d38919096d5619e4a89ce9796007",
+      "Google Map--22": "e54ff2613b0e3851410cd904f72e158e68f5606ab96778fab50afad595ff5121",
+      "Google Search--21": "66ae47655b91d93316aa59871356bdde3f7379386bfde59e53a494670c9f95bd",
+      "Huggingface--24": "f6240652a047d124fbb1f1304df197e8dac5af1aaa129d4672b531e1e0f873a8",
+      "Wolfram Alpha--21": "1dd840e30feb0f8a8d908ca62c53154088f0e22983e0289efc59e0438fc0624b",
+      "Allrecipes--25": "1a524f7ad02d5cc5b82f879469fe0fe36b2170cc2cb1dce27fb7a6f29be07828",
+      "Amazon--23": "97edd02a3752a255821b1bf02fca3d7ca900717aa9e89143accfe15f73f009a6",
+      "Apple--24": "7141e6146fabee5e4031545167cd5f016a0a9b49e4a3ee0fd15943f9c18b22e2",
+      "ArXiv--22": "286e1509222aae4d95a23b65442aa094a23620ef2342a3fd1c7c11ddbd420d7b",
+      "BBC News--23": "6fcd69b13851f7a6711494e5cbadd43736b31c76677c5c7d8eb4e59e0c163f50",
+      "Booking--26": "af742cdc67cca4aae71e6e450213a4a87b2375e201ad12d917683b0c3c3c09e4",
+      "Cambridge Dictionary--23": "6c4690fbf7937abf2d8ab3367091d0ccb23ed48d09bc1ed2bcb5701d3ac3dea1",
+      "Coursera--23": "2fb196356c8bdd0f012940d529655bc58b87f8db97cef14ff30a1b601bbcd799",
+      "ESPN--22": "b296096efe1148f90ec5e189c25f65082e34cc93b4bca56fce2bbb7c164fb1e1",
+      "GitHub--22": "288ee4bd37a1ff7f773e12ec8543637098b1eebaf795cd7e965b596c8530a958",
+      "Google Flights--24": "561859a6685616aff2dfca0010af6a879f785665299295b0ea825f465045b496",
+      "Google Map--23": "5fa044b5c3e273923a67d25cc877a500fbeafbb71a50280295d523a5ff027c22",
+      "Google Search--23": "57d75b3e76c91dccfd2cf97ad10dce745f6093b0e499d4607f6f72b78de1a4bb",
+      "Huggingface--25": "e8f1d3641904398ed50f1db525c154e9157ff38c8b597ee1e14e93c686edacf3",
+      "Wolfram Alpha--22": "20fb384268e8f6625027a86af2a42fb3fc164f2dc204367c5c7ea43ca2019875",
+      "Allrecipes--26": "3cca0dc17ab65c530d52b25e7fcf3fc4a5d122dc9024cb91ced52e6aa6e0584d",
+      "Amazon--24": "67186073adcf17d31cd0538551d925532d593092c411568f377b869b253a51ab",
+      "Apple--25": "063f9cc4f06070b464d74ab7a72151cda11cfb8df050677f0828e1565d5fea6a",
+      "ArXiv--23": "a6aeac6195fcab5200670786f70c7db255c0da37a91f28a57a57167a4dfe671e",
+      "BBC News--24": "eb16f06e3095536b8c845da9e83ae1f2f2a0bf74153e80259e569693964185d6",
+      "Booking--27": "5ab2a602885f1136bd322739781ddde4ea1bac121e38cbdb17ebabcd1bacc865",
+      "Cambridge Dictionary--24": "e24103641a224719a57555e2137d1227b334e422de7f0aecb2318d0cfba18dff",
+      "Coursera--24": "b7a9f2a13567118407004408f0a7c1fd5a446e49326af9903eac6495ec72bfad",
+      "ESPN--23": "29791576e4e4b04c61c2fcbd13e673d263a5f68fe9601a3326220607e562ce3f",
+      "GitHub--23": "f706a826d7f6531b629ae89b97219479279d8bb5f546814ad0b47fec83dc31e5",
+      "Google Flights--25": "26707c5e4110704a79daf05d94c781873464727ba812e96bb386138d1bd611b2",
+      "Google Map--24": "bb318510a7c46cde04996bddaedf91cf6061d0a5176ee7bb47fcbcf949cfb8d8",
+      "Google Search--24": "99b411edf3b7d799f1f075fd18505d2980a38d9852ef62ef201b10ec812d9391",
+      "Huggingface--26": "98cd2c520b9fda913eded9bd6d07b4538ead7c0214898f61fd72f6c5b38e5ebd",
+      "Wolfram Alpha--23": "30b4c56bd6c8165af92affae89f3c6f055a1bb0f9dfbe9832b363f86a0a6c108",
+      "Allrecipes--27": "0029403cb7081cb323491b5bbec9e801f9a2a9f739716cbf12f972df8ce2d87d",
+      "Amazon--25": "5d5fc3a2c4062aed5ef8ebde329f8a8136088ce197f8e9c416d98957677ccbfb",
+      "Apple--26": "fccdea757246bc72642a0c9c58f9345f178f24ecd847d2b1f8b11c8db271e7a5",
+      "ArXiv--24": "c744437c666242b47c478a0cf8829711832c1c2a0fe1fe0354305409035067df",
+      "BBC News--25": "299beacfec2c180bde4cfa0244ff25c7735bb0237bfdb16fc39b70b210f71970",
+      "Booking--28": "7c00b2cb68674dc8e92053a6ab95ae15537cbe11b710007bb5fa7b58c47a3944",
+      "Cambridge Dictionary--25": "975c37fe387d7572c0bbb51d3fe72d761bb59e3548bfe608d757ca2741296ed9",
+      "Coursera--25": "83302d2e43eadc5d756e213591c05ce7391f2a3400731cabab84829d9ea0f803",
+      "ESPN--24": "c9089b7ecf65bf1707c7bc45f4c50fb47cad3983b54816bed5452bcc6fe59249",
+      "GitHub--24": "82e22c82218cee10144916a1381e1cbdd2ea0c1467a9c5c1e8b1827477957f2f",
+      "Google Flights--26": "3a85b277266f18b2763a26b33b3a182db7a6a11c00b476fc0f789ecd3f76ac3e",
+      "Google Map--25": "b52a0e91604b98cf1eb033792875fc354d2196a788e704901868255f95473012",
+      "Google Search--25": "10d93be333ecf255aca10d93187897f1e6c5696129e2050b15f489a6ed7d24b0",
+      "Huggingface--27": "79396613fd647a1f33cd76877e5e3bff9e83ba13ca2a8b47b485081eec5ff0b0",
+      "Wolfram Alpha--24": "0003b98426a80abeb4a6fa4cd6fa419d5e16c698605c3910689c77da1c8d9307",
+      "Allrecipes--28": "0a33b9cca25c6386b4b662c1de1c59df7d344b696079b27bf2599cd836591642",
+      "Amazon--26": "bb5203dfa2ce6f88d372051a64d677d219eb1a855a61c14be7aa274352a7ad9a",
+      "Apple--27": "d1deff4f4454bc082c78cdc68cbaa6043ad0103926e1bdc15e5a7e50c0adc5d5",
+      "ArXiv--25": "b67747c84f0b7620c861f651dbeb61fa8a11498a7a1e689718e1dce5f2d187d9",
+      "BBC News--26": "60fbbb4be9a59073dc9dd8730ea007e3fa7b5234bcb2ed40acb14dcb82beb1fa",
+      "Booking--29": "6606030f320ee4d77003c0c51440d1e08a405e8031283af747e7738d885e0239",
+      "Cambridge Dictionary--26": "4e44677eab6c8d6330825a5e8ce71a42dcde07caf4b18c4b579614ef1228e8d2",
+      "Coursera--26": "2ba5e7263f2e5ae8d54cf7b2b9a941faa61b54f193fc9a283356e4151c799bdc",
+      "ESPN--25": "a6293b6ca354f478469c7074364e64be27dd7409756e5c19500316a659af519d",
+      "GitHub--25": "eabd63e52c6a08630c06dfde65a196401adb83b69362d3e6a619a8a36eda9fae",
+      "Google Flights--27": "1af2929f7871e08889bb4179654621f07131ff8d002161d5cfafc1a94ba875f5",
+      "Google Map--26": "1693a9405fdd4efb5372dba7163f60c03e14072dc4811dfdade5aa36718aaaec",
+      "Google Search--26": "e19a11d28fe0ac2745858ac00ebfec4375f3e43eed690864f245f377139546bd",
+      "Huggingface--28": "ece2f24e1f7512409f44c666cc844ff27acacc027d5cd760e9959809c1eecfc5",
+      "Wolfram Alpha--25": "bd8a2926427f29a1ba75b412865adda318e23a0ed9bc034dc1db470de26aedf3",
+      "Allrecipes--31": "5e6497e03463849cc248d84b3a776ea4917c65fd559b8528986d648fe7f4fa35",
+      "Amazon--27": "cca09cc481c7baa8cbef175149220373a0d3798175bae83fad8c31bf44f62a05",
+      "Apple--28": "8bb7ab86d8ba1296d1674e2334a5397ce845e20a8a62d5d07ba44f76a78fc263",
+      "ArXiv--26": "95f3a249dd76b2a17904dd9dd4ebd0aabfed1634251fc30882ca8fc5348a9645",
+      "BBC News--27": "84e9c414882c8dfa9ba3114febddb6586bd4ea7af23d64e29c5b740d9fd58695",
+      "Booking--30": "949b2d12caa46c64f056d17d199588875157221d00ca37068e3087b69730dd6b",
+      "Cambridge Dictionary--27": "15b1ffb637a3659a2cc7ebe7507a2d0791cfe942546cbeac41934e63a1dd657e",
+      "Coursera--27": "3e87031e6de74a8d9c936f9d22e96545b524092006f3ae58bd73c5dffa9aa33d",
+      "ESPN--26": "89261d69a452d0fce458c93c56a7d0ce8074a9ef56fdba2724973e6a32f2e07b",
+      "GitHub--26": "fbe0b7036d7dbd510a28b14f7dde10162a6c0653f13e804956cc912eb024769b",
+      "Google Flights--28": "999e67eff0f70700373b2cd3891b813d3e801f21ad40220a01509d04eef90932",
+      "Google Map--27": "914515dc3b7ea6d26c620342d9d48f6873e5feccf18d6de54f7ee6c0d09ff4ed",
+      "Google Search--27": "4a40bfea329973f6e9b8285b465fe95f821b6d1692054692cdf8df6d4e5e558a",
+      "Huggingface--29": "df86494086e5c271f5e2ff89e9213c83a07a2f5d631eb7491d04ae9234c0852c",
+      "Wolfram Alpha--26": "e90580ad75def22a3e3d3a2a7d99eff31006bc145ae7b50f91632679985f61a1",
+      "Allrecipes--32": "4086e19e93ebf2ec6b6f7a388cce113fece6eb60c1fdd0e529b2ff09014148c6",
+      "Amazon--28": "e2951ac6365ec0666f540da19071dbcf6235f210435a081d72a0e63c5e75dedc",
+      "Apple--29": "441db8aa6acc44c5f1c02e982fb0d1ec50ee3af1a4e2e34462d422ec1829439c",
+      "ArXiv--27": "0b974376a0f3aa0a427ec3b13340ed5f3bfc4024ec3d197f9aff0ef2d0aed898",
+      "BBC News--28": "1e0109ece5080f4e5c2f7b1d82974c90761ff294fd603a285f0dc520f15b41b8",
+      "Booking--31": "1bc31eb62abedb9eacd96b3d9d8937392152067d3551070694d80ea3e389df1c",
+      "Cambridge Dictionary--28": "9c1714ca8e8000192014e7032c0fcd081278d288acb628949929c19a00e05934",
+      "Coursera--29": "59f7bc6f92ad53bf787b943de0e589e487a33480f94e1a20b0b3aa0c3ce49e5a",
+      "ESPN--27": "edb5605e17ff290d3a8f909df8a453632659e3cce980b7be6d789b7d35d5a957",
+      "GitHub--27": "e4d2972aef2a011ce192a3ecc10b09c61fcc363f13918cdde1eb33504387e5dd",
+      "Google Flights--29": "52b14e27759421a1fb72a7008c8290fbde1b1cd90cc3505d7d9366fbf46f4b60",
+      "Google Map--28": "34ecd8b751b5920c40624e5783490143537de70ca965812e778a0aa69147a416",
+      "Google Search--28": "64eb15bdb04ca123b5c5d3bd687f00da7e35f1fe179ec954b2644f04afdea950",
+      "Huggingface--30": "9e68e71b138d286ad62d530393bcaa3398897e039d337a8a3425a7358ab80f8f",
+      "Wolfram Alpha--27": "c0a362398db7505db50dec63803a6db1019852f82ae74d0613cca5cbb8a41e63",
+      "Allrecipes--33": "1170c05284cd8ebac54606362d6831d1782823d06f09d1c423f525824068353c",
+      "Amazon--29": "26009e266be083f56bdb1a332b831f332308d0e1a2f35aab3fd400e3c86c0be5",
+      "Apple--30": "de71127a43046a31fb2be5578244595787ec4eda49a503f9f149e32de3d2f577",
+      "ArXiv--28": "d703920b5ebf00e6b71778534ef0d4b9193ecfba423969105fed579ab185f46b",
+      "BBC News--30": "ee7f56dd1eac9764f9923f524746f107ca405f8265bb41409499aa8d9b13c587",
+      "Booking--32": "7ccaf50bd7b04241206a6ab359996ff96de4925ce6d0d3ad1398bc0ba98a731b",
+      "Cambridge Dictionary--29": "d1ea2ee067b14d81636aa6656a8bb3cc0ece4d657c1270c62138ac03246b7566",
+      "Coursera--30": "7b9de88dc05efed11cdd303eeeb874f6dec0c3fc6c4d2c84c51d97a52fee215e",
+      "ESPN--28": "48044adc6a55dfa737a24ca89477f4e3acf62c9f92ed0c8ca5f23f4aa44ab5bc",
+      "GitHub--28": "fd64d42938ba3f0e8dadf91ba54a84ca022c48b0fe78baf2dfa09ffbc456a3fd",
+      "Google Flights--30": "45c3f1db8df83684bb56efb97345ae517b62426f15f21eb7b5f4a5ccb8ebfc02",
+      "Google Map--29": "e88f1e166ecede55db6279fd083c419fec0937484c95cfd11ee1a39f912b1ed3",
+      "Google Search--29": "ac1ec848d0725815be990c6f11e7de8909c14e66960e53d500c8c6e89a0ba178",
+      "Huggingface--31": "89e30d24c8f262bb9ee837fa031d48fa15b593060a57308a6dc03ada9d4e1fe9",
+      "Wolfram Alpha--28": "070d8a851e9b750d2a82564457d66df1d13ec3e4acf2872b062540b31b311fb7",
+      "Allrecipes--34": "53f1ccb3d894a7199580d0883d148dd77e437998138c86472cbd03c076339d01",
+      "Amazon--30": "1b7f7a3cbafa126f1cb7f4657bb8b333fc3368c3e983c9e515e709c41c130dff",
+      "Apple--31": "495e036ebb4d54bc69866111e21ef5bf19e9581a1fa545d0d16095abd25500e7",
+      "ArXiv--29": "37b5ebcc3f38dd75a6dbbae02a231047fa39cbb097a7976d1aaa78409ccbbb86",
+      "BBC News--31": "5d44229f1fca43f19efcd02582a0a896c31d4915e2a80a74482ceb216955fd9e",
+      "Booking--33": "2c5669bdad20e824815f6451e2308c685973a440047a05273db6542b3826312f",
+      "Cambridge Dictionary--30": "1ded4fe8193c7249b94abca261868df5b866c80909ce5b3f1dc49d6cd414c12e",
+      "Coursera--31": "801b018fa625d5f79cd06d6f377fdf405214eae2f365fc40dd2093077dad4441",
+      "ESPN--29": "1e94581aa0b622936e266325e3cdeb0d782b570c4ffacb6d9e131a520489a2ca",
+      "GitHub--29": "890b5e2c577e6ba15f94d46bdab648b1baa58ee00992e3f7f325cd6f73540a95",
+      "Google Flights--31": "a672a637b4026f938b0a97c80e8a33d31845c1253d80f232dd88f1aa7116da76",
+      "Google Map--30": "09dd5651d92aa166e40debde6e3529c780d1d26baf011b9acba765d3a33f36b3",
+      "Google Search--30": "acc96e890b8ec5896285bace57ce07d4f4650967e608265aff8f0f397cd5fe1c",
+      "Huggingface--33": "3ca17b79d01bedc412cf73cfe9c173533268cad2d4f5d7c79353fe52af5e6bc8",
+      "Wolfram Alpha--29": "977f5c8ab4151fb9d165cd8e0337385eab32945758c3304e43ffe771c57edfe7",
+      "Allrecipes--35": "1a9933af81c1922712bc70c9dcc728b6699e899448d0ec7bd60f8ee9a9def497",
+      "Amazon--31": "15b05434cf05e20a2fe4eb6e5dee82261041663ae5c7d101938f210d024f1353",
+      "Apple--32": "2a68690d5359b3944511279f6e477725b4cb780f58b96f98d6f08ee5f28c9cd1",
+      "ArXiv--30": "6edfb337e816678d3e74029b08d4f1017a77d341923c2a0c0514a43c40e29042",
+      "BBC News--32": "efcfd0a1138f938072a1c9b2f36198000210887222aa5dc03f601c4cf222c4e8",
+      "Booking--34": "1dada36055bb538ddef349e5fa9593766d0224e35109cd222179ecb6c5b4e660",
+      "Cambridge Dictionary--31": "7cfce65bb416952bc4e4698e754ac942e166c11a333ec3b349b7f252102c5a7f",
+      "Coursera--32": "d80e3fc7f9558cd1dcf4661608ea540b1ff5185f568720e290b705ae93c0344f",
+      "ESPN--30": "9dee369c295319633756d11ca552410e52652913e243bd6dbebadd6916d18c6f",
+      "GitHub--30": "5ca24dfd80ee9d73906912dc5ab51fe8bde02a190f7ebb5aee9eebfd1ee0a82e",
+      "Google Flights--32": "beb0fd18c963fba91164f2bcb15d505154d058cff6ce8073700d336e210e0003",
+      "Google Map--31": "1de9ca84174346a72cbf9b4f22e81aa5f81426783bc2c18f97ce4055acef7e84",
+      "Google Search--31": "481004b0275a8f374faf2f15301d21b585dbe9552fc62cb79a8257282077e2ad",
+      "Huggingface--34": "01b26c63e21845f736e3be7aac8e6a375df3e8a22e5dfb4f459ff117fcd7f095",
+      "Wolfram Alpha--30": "51ad79a25d22b7216e03e3f26d3f0a2ee8a141de814c36fe117da77739d36542",
+      "Allrecipes--36": "b528a88376ec9b5932b9d1a24c5aeacf4c7a172fc31af9ae14d46d82165c5c70",
+      "Amazon--32": "41b4e6524900bdd254a6276e814b29bb41168d709c28c80f6cd4559ed3137de1",
+      "Apple--33": "43e019153d42e6c16f2765138b183dba983fc19fda7692bbd4e8b33705c7adb0",
+      "ArXiv--31": "00b0879d71cc62f09148ee3d398f7e325f9bb6316487bfd848befc774fb5344a",
+      "BBC News--33": "998160d90102c0349831c6ebde91fc379d1f6335aaa7436afa10374ed09e5888",
+      "Booking--35": "f680f7cdc21d0a12a44e7c24e9dd67eaa48b8525b05a26150d217a2db9c7469c",
+      "Cambridge Dictionary--32": "d92b9a0a89b5a6371db28d43239bd9744ae747d355596a8381710fc053de37bc",
+      "Coursera--33": "e899b861cd10867ffa8b281dcb6e2a7b4cd24b1c4b7a8df2f2080abdc04fabac",
+      "ESPN--31": "0a61b725c4462dad483f5a1517ab53cd1e94651fc4806feb963651205bdf3de9",
+      "GitHub--31": "660d76aaae2520b0dd6d9658a9d9c0face33221785d1f581e15535947aa9f9ab",
+      "Google Flights--33": "34210f868c7fd25822027bb6dad646829f6ce1e40f97d5f82291dc3e22ff05ca",
+      "Google Map--32": "cf50c16bb846b2241cdcc2d83042d5279ab0c291b549fc88f7271794212dce10",
+      "Google Search--32": "04501704ae57dfb7ee57c0bcf30cb91ed05c11a05bce312a603559b37fca866f",
+      "Huggingface--35": "29e415a8009be162fd15006b26bd5b8a81c7783f2806e040fd75de1ca3ba0732",
+      "Wolfram Alpha--31": "d8ffe811aba3c9d91168ed8cb01cdaa53000032b046ce1ebbd327db2a24732ad",
+      "Allrecipes--37": "d8076de08919b98f252b547790ca7bb6faa2320e7fc58565f6d652a6b3c3426e",
+      "Amazon--33": "5986bcf2a4dd2dc77075028ecd59c34ef9766ca606a60140d39140e18f71c2d9",
+      "Apple--34": "bd0045b7c722edd72cb4e80f336708bd253bd032fa792d1297389fe82f0b5ffb",
+      "ArXiv--32": "2fbaa5fd6ef810fc3d32052151559b0dec2abfa692f265820170db6114d6806b",
+      "BBC News--34": "4a19cb576ca98dcf998bdbefa05aaa9b781d0dbc6d66b466b5d0c600d89d8e35",
+      "Booking--36": "45826b8f5c8dc211b511a4abb28bf28a67137e4b02e2e40a4123e12cb4a90fe6",
+      "Cambridge Dictionary--33": "3f6764da7b88f120fa9e53a7b24408a6ff2953916e54618115ce844b630b19c3",
+      "Coursera--34": "ec0c8c6734ac7f3d30cc70c419639cbb6730b9e5a5ec19d5fb52b6647aba15b9",
+      "ESPN--32": "74eb39120e29b92cce76d0e24d588fe0b748e255b183fded1d3f5ce86f7ce680",
+      "GitHub--32": "ab05d4f90f2ce3da1512f3393a76539039f6a77dc7248b59e1d1d6149566b134",
+      "Google Flights--34": "0889a2110b2e3c35ad849a1ad691f7f16ed3d5df713ed0dca342cbe1dc155139",
+      "Google Map--33": "7bf1f099d5e7ca804e656d1b051c4fcfe5c22b814596d25eda34c80cf9ea267c",
+      "Google Search--33": "7500588b24cf1829cdb2db9b4ceef6023bda06baa068376d67817bcd84853a88",
+      "Huggingface--36": "f438e35b77bd9db4a2483331e9a13e25c6492227f3e4cf3d4621c1ffed92d7a1",
+      "Wolfram Alpha--32": "627c412543a3ca09f3114083c3f1e147b8aadc768e01b8f180bb5ae31f9db5b6",
+      "Allrecipes--38": "950733158e268c45a9206de6835afe39b30ec683ace4220008572f861eee2957",
+      "Amazon--34": "c7223794d10617a2198eb561839295647181e70eadda0f53c7f94bf2240d35cd",
+      "Apple--35": "42600c1b4e834bc2a9a097f5c5de22e5567f2e7b518aa2dfdfbaa5ec047e5a84",
+      "ArXiv--33": "db675723c26c93d0bca83528a398407bbce773f7cfd737210c347d347a0b49b1",
+      "BBC News--35": "9b6d8fab633bd24356ab723a1a5740e5e0e5ae9de95bb5d52fdf627d1db2260c",
+      "Booking--37": "1c6297cda770e5e7fbc065987087623a01a150242b083b69446221c6453f8e89",
+      "Cambridge Dictionary--34": "19c14cc610aaf656f4523fa88402693952fe13fc20abd740cf260198b89fe473",
+      "Coursera--35": "e7f13923831be3399488d28ae21ec7f4edef257912602652f154eff11f3078d7",
+      "ESPN--33": "8416bbfaa740b420595ed6f50b001bc9cdde496c89bd2a9fa26eb1002d608cc3",
+      "GitHub--33": "f946f29850a5a9cc49f83f4fdc68a533426bb073389f5ebaae71ffdcbc8c4e73",
+      "Google Flights--35": "9ddf0e3d201ed2895b04c507919a6a653f1e345c3e6e329006cb9593949ae624",
+      "Google Map--34": "fb220048d7d28307d61e0c1aa901ae4744025a116813501ba1e84d8474f1f502",
+      "Google Search--34": "61e8210463e6c3b57408e0bbdd1c85928470211817d4419faf69a81b9104b19b",
+      "Huggingface--37": "b1f59f699840e069ae7912a0e3531a5b5281e6e76c33593340d81f111caaf00c",
+      "Wolfram Alpha--33": "4727d0d69527868be1aa42c6f929a910f3da94391c2909a465b55cd6a2d8b58c",
+      "Allrecipes--39": "90699110794fe7f16e87bf35a36c9e31d3b8abe158d10d8ee4d3028cde00fb2b",
+      "Amazon--35": "f2976d60fbdde4b15f0194f0ade4b7004bdf451befc7afa57a44c2446882ff23",
+      "Apple--36": "a9aecfe479e06934f57c1669d6d128907a96d1f8bfcec114b9baef846214987f",
+      "ArXiv--34": "b680b71ac32debb0c54f854deab70b54c0c618946ad034393098eb9f2a33718f",
+      "BBC News--36": "dd2d66cc3c7eeeae30dca4e7e6821b9abcf47057aeb889f834d7036939a6a835",
+      "Booking--38": "b92e974082148d883d0e9082a510fccbf059aa2f1ca4ffd3e78a2a12ed300b26",
+      "Cambridge Dictionary--35": "e40f84cb9c0e766802e7469ceabd61e90fafdc05e189a9f0d231fd6c2cb83f6c",
+      "Coursera--36": "e16379e09be61cf66b8448ff32d645f1e2c3fa43ce6cd7519f95b0c162c603c5",
+      "ESPN--34": "beb2e396bc8e616dc412a4f09d5b59013cd959995dd89b5dc906f00ad22c1c55",
+      "GitHub--34": "eb149700516012018e666b179efc97ef72070d756fcde924f16000d352b2f756",
+      "Google Flights--36": "e5fd384a5b3f21245201a723c5d42564912228c7fea64a4663d9448f0560645f",
+      "Google Map--35": "99c0aec3f780a1a0b5aa003498d04fb76ddec84a63369160f90b9083482609fb",
+      "Google Search--35": "03473216dfcdea613942a298b8c2ba6128a41eb77e374a989f328807c1437a33",
+      "Huggingface--38": "70dd8aca5738ce4abaf2a1a9b7e1b658ce83fd8993b535a959af0f1d069a7b9c",
+      "Wolfram Alpha--34": "7c58bae74a5aef995629ee768905394e4badea3f63172c92a5c56b99e6703b5e",
+      "Allrecipes--40": "381542a5071ce831d2d7b1ee47da0519ddb098fe8fed09ca59b8dfd0b1dcf8ef",
+      "Amazon--36": "a00793260ebd4ad59d9c6f462a450841e9c9f218e3756d424b2bd52c5a6bfadd",
+      "Apple--37": "3704bc2133aa354073adfcad600411811ac373d7a344d65adf1140fe89baf7d4",
+      "ArXiv--35": "6e14a64367972f9be78306ad85fbbbc531e9be74fb8d7723235002a500669d95",
+      "BBC News--38": "3bffa723ac2e19039e62ce8034254643bd1ef811f575efb3bf0c4386d5ed0a86",
+      "Booking--39": "767699a257d3112a07af40e4e12e15a5cd878f8f1eab18b092de7e00c118ec39",
+      "Cambridge Dictionary--36": "80aaab312b12463cb75d5a0f3a5b96049be53652cf64e854276b23c5b0e540ab",
+      "Coursera--37": "1cb708b421a9960813be4a7b63c00404a50610e7232668be28944051f037314b",
+      "ESPN--35": "f280b68ed65b0d4cc12e81a255a9403035e76d743144c76a945771daad9c3b37",
+      "GitHub--35": "e6b20901181feae322876d468ed878ba4bdcaed97ad9cf49466c2c3b892231e1",
+      "Google Flights--37": "b6d7b6f58c86030361483c77f131d2f2809dee5c0f98dc428a7f6a77c863196c",
+      "Google Map--36": "26f76a10dfafa184dba8193fab47a2d768354010fa145f845197fe3c0adbffb2",
+      "Google Search--36": "a86e8dcb689973498e4cbc79ca21f8ec03b648947b8fe599ead4fe1516605c09",
+      "Huggingface--39": "e8f507fe549490f9f7e0eacb03b8443dd8e0823f33ce54438dab1dd33b573679",
+      "Wolfram Alpha--35": "f74b58d3652d0d8dc1f21adc50d31937c6b8ddab90a2d5dc39e715f3fb85100f",
+      "Allrecipes--41": "fdff3ffb26696938c459065e8432254810342d099a23367bb3f7dec5c6a3c0e7",
+      "Amazon--37": "ede714dcff7f9a179dc19f959807733d86aeb770c1088ee5b8f5c8d0301f87ad",
+      "Apple--38": "fb6359092a15ea5e13f1b9ed81a8ca0b7220317d1a8a4c4d77bdda9e49dc90d9",
+      "ArXiv--36": "a283d72e27df06baec20aabe18ce5fcc55a796ff21459934799b21275783bdfa",
+      "BBC News--39": "6892e137e928c81b820b2ded49d382b6b71d2f3e6ae9e60bdd3f443fb3b2ebae",
+      "Booking--40": "d52c3412e87024aee9b074d8e27c611a3838e61fc14ce45183cbb0981de2fc18",
+      "Cambridge Dictionary--37": "1b8db223502cae08413f9170b87105b666de52a7aaa4826ae1d996592ea2a532",
+      "Coursera--38": "33b4671dd77a2a8bda3dada12a347b257c3767150b0505cad44cae5bcbaa8186",
+      "ESPN--36": "b286784da7c8cfd9064355231cfedb07bcbb64a285978ab2a8152a06aacc9b57",
+      "GitHub--36": "e96de1868e49b06be0ab218b09e4e380990d6c4dc42430202d9adefebc95aa85",
+      "Google Flights--38": "3560076c26b53e62df31ac34ae5366f94aca85512d06b3e75970e106fac2acd8",
+      "Google Map--37": "cbb3a5b360b4abf2451149192ca4e0d676068bc07145c973571e1f2e49b2bc40",
+      "Google Search--37": "6d7767024bca2c13e08e06b94128ffb57fd9ecd9e9d38891cc8b03ad1d36b4ec",
+      "Huggingface--40": "d601b846e11b02ad65a671044942783e98941a3f88fbc5c70f59c938565376dd",
+      "Wolfram Alpha--36": "2b9906f22026b5b7266bed10dc1ff911b3f0803cb7cf696dc521b1a387f93376",
+      "Allrecipes--42": "9e04ea015bf80929d151f141103f1b78c7fe366d9753f82646be775c9f1fc0b9",
+      "Amazon--38": "3c8e83b1b6865ac89c529d4ad1537e9fa06fb1ccda40ff65f8340e8b7ffc5349",
+      "Apple--39": "7055099313b6c7762b84cc7c090e5eb4dcd1151806c988bafdbf4cd90a642e67",
+      "ArXiv--37": "a02da1e42d96d37550067007f7b2ebb655986ad86568313cf3ab8c70f79e582d",
+      "BBC News--40": "861d71893c886b9ce1e774d3b2565ab63750d3232037b9ccaa10603b5074fa0f",
+      "Booking--41": "3338a114ade86ddb67b2f5256e54a49253a6609518032fd2257d2e09db0d6beb",
+      "Cambridge Dictionary--38": "654eb55f6163451d5745ae6be3cafb2ef52f9ab39c31e2765cef1bb2e618d0b4",
+      "Coursera--39": "b20cc04758b7c9c78275f3f6964686e043c5fe60071d180ec7d192db927a627b",
+      "ESPN--37": "ed6eb23fa226189551072aa3ccf0b10fbfc04c4408f550d4f2f3e32eeede5392",
+      "GitHub--37": "4ef7d1debf46b4729561551f037c1d6dfbdedf1b586160f6083902557833ef2c",
+      "Google Flights--39": "c31d6dd18ad414e6208b84b0d86a90cee862f88d9c130546e333f3d9b14f6039",
+      "Google Map--38": "d0e3aad54cceeb220ff4f19b03ae485b6838c175f050d11f40b8b567a151e271",
+      "Google Search--38": "f7c80d7ba16e7d3bf37ec5826b2a78b093ab3999816ff294499b58e2637bcfcf",
+      "Huggingface--41": "838a94010f39f49eea020ec657c4c73467ef5de092239bd30b61f21523ed8d98",
+      "Wolfram Alpha--37": "be6a9440164dcfd45917133c92843e8d62d867e287d82aee7ac5e0e6baa55170",
+      "Allrecipes--43": "4ce3ba9d05b80b4984f7683e3ff0ed7e9ec8511bf38eb25e4644b691043e34eb",
+      "Amazon--39": "f4eb1630a2cf28c9774899d55a9465f3bbd10078b9d47075974fd6efdd915fff",
+      "Apple--40": "7ee083cfa1d25845aa141c2b7b40c09829469c975343e39d7ed96b3d61b368da",
+      "ArXiv--38": "37a283d7a264979ead706a6ce1d6462e048cd3ffe181b6d5833b9de69faf79d8",
+      "BBC News--41": "3c542fda468e838afa03a7393a195f29dd9f507c0c32bfb8083c54bd5efab275",
+      "Booking--42": "19191bb8c36cc541fce283d979a074d83098768471bee6cc6caf49c0d4928650",
+      "Cambridge Dictionary--39": "1d7ccaf91d905c7f677d333f1ef348a89a7aa2c2c4b3d6bec93ccb897d3e95c2",
+      "Coursera--40": "c6311c4cc6981a2b08346b9c6d83f669c08610cc9bdfbfe5363b6ef8653bad75",
+      "ESPN--38": "4c1d577e017d7a32f4776c786216cb4c27fb3b61d353fdf449c2226318749285",
+      "GitHub--38": "e257ea4b56df056972a6b3db668f64bed66cd09d5a2bcba9d4d74f94abde1d41",
+      "Google Flights--40": "75b2aa928f8ad045a3c3f9ae87c87278a829806ba2d42d9f06613cd35f7457ed",
+      "Google Map--39": "56cc09dd5470f359cfed262982c7c1187fe352af4d1a053aae6b1793d34b8ec7",
+      "Google Search--39": "bba787ae1bb64c1a074b64067b2124cb6a3820491e2ee63f77d693c30440631b",
+      "Huggingface--42": "2e3e7baaff50632fed48212162f0b47cf5599fe72158d8b640ebbd5cc6dbb51a",
+      "Wolfram Alpha--38": "c35dcf9308a32c8637f767c76fc843ba7ac384884f370d32c592ff0b0effefbd",
+      "Allrecipes--44": "a712b5d32495672b1502a22f180565966b83724d9c12234232d25e9774ae8b41",
+      "Amazon--40": "8e252499d391399d1cc88fe0e6af510ba1eeeb7d9ba7deca7cae532cc0af23f6",
+      "Apple--41": "fbaca39ae86c9c7c8abb9af2f492d5351cc136083d6d69d4ebae9d8260762399",
+      "ArXiv--39": "188001012ef9304e51a287be0c6a19818b53237ad5aae923af52c5329605e125",
+      "Booking--43": "794864bdafe39d573ea3cd2cdf780d8b386dce9de4e1036e341a9983cc189bd1",
+      "Cambridge Dictionary--40": "5451e578a0eaaaad521ce09899721669ed3dd7f4ff4a6703503c743d11f8438f",
+      "Coursera--41": "7757964ad1208781185198d2c4191dd6f99c811ffbddae865851289246c4b40d",
+      "ESPN--39": "360fe8b7f8658785ecc8e6774a8541af98db25cd2c9519714ec9a5013c8c6b9d",
+      "GitHub--39": "c81158499f11d639207a9404dade793ec701ad9784e927f51da5e51bfc9f8b02",
+      "Google Flights--41": "99b754a8db560d6ccc4e08ebd542ffbb1abd2b415176cf626c34b765a395da4c",
+      "Google Map--40": "02cc6b0b430104c075c7d45cf0693970c2ba350616ca8e6760b521144b04a581",
+      "Google Search--40": "3bcfd8b8194bcd394df533f9a58c3640ede5d2a36d7cea1409fce65377cbf99c",
+      "Wolfram Alpha--39": "9b889b9bba8753c00a6898ecfe4f36ba473d57b3788b5dc1c59495513f09b229",
+      "ArXiv--40": "a0d6baff3ae39eebb349ff51f28f3cba9bc500779d48f9027746b3144ce3d447",
+      "Cambridge Dictionary--42": "1e7567dd19592802b4dec8e35e59f6a4ad24a2d31509045157e6b122ed629a20",
+      "ESPN--40": "6a35855af3711160b6c8ce188830a22a810fe6cc02c1fa1670db4387f9de0ce2",
+      "GitHub--40": "ef1fe4e60e0045768c2f81290c409f91bc543f88a139a54a887ee41b00124363",
+      "Google Search--41": "2e144819e944856ce79113342937ad347f6f07d66457df03c30ef8bb2a181622",
+      "Wolfram Alpha--40": "9fc3502ae85c87a83c8b18c0163e436fd3d36d3e5d147284b291a47469674675",
+      "ArXiv--41": "da3fe7e94ef7e2d20edd3ea8b1f39c239486309773e6245301dd2f3efea0307f",
+      "ESPN--41": "0069cb9012877611f58256363304c8f7482e3145284f0f181e4463305b8944d9",
+      "Google Search--42": "7906e851982808b4bdb7a05e3d8803d2279cc7fc1dc84cd38ddfe325ed271397",
+      "Wolfram Alpha--41": "48536728965c5f27fd86feaa6e3edce82831d0a1362a3c560f39fdce096b454d",
+      "ArXiv--42": "b47169c0840b4859fd1a371950c8c97977e881f9ea6247375ad6a03d31d9dbda",
+      "ESPN--42": "b4ca0232d3c29b3b4cd85d77ee4bb6a70b742ffec65aa60370c691c14e40ba32",
+      "Wolfram Alpha--42": "bd80781b63d118b1161c461190530f26ff2d2e9de2a89f185669e6b28064b28b",
+      "ESPN--43": "b52d7f8c5a9061d3a76048b4f248966174f77c7c18755605e559f79d193bccc1",
+      "Wolfram Alpha--43": "b303c0907fd5833f0dbcf6a1c5946dfddf87c0aff81b761e2d0ae47f407d54d3",
+      "Wolfram Alpha--44": "281784a44c52c1907a22478703db27caa7786670a33c6896334cd5dc875cc474",
+      "Wolfram Alpha--45": "2b421508b70a9108792aac727856d4d00dc2f134b66b45c81b8635a9c618a553"
+    },
+    "source_hashes": {
+      "browser_budget.py": "236ff310029c98259073a08a1b02087ccd129ef0d1eaa850763d4a8fc4f4678a",
+      "accept_title_mismatch_evidence.py": "0927d4001dc709c97da3273868a26d70fc2833a2a1c8ee83f0ea38ffc6d10370",
+      "capture_chrome_window_windows.py": "64d15a00cdb302e7a0834ecb52c1b961130c4fba717cbeadae8a4a0f33931eda",
+      "lingxi_webvoyager.py": "7e9aab7746fef20d78dec1406b02d0c8546a133f71bd01f4a1134a09e03f1a7a",
+      "browser_v2_capture.py": "723855e33ad97f40c3d53a3bded828ca90521f6107b4b90ec0d04d496e24dc9f",
+      "lingxi_webvoyager_audit.py": "8d38b1628206a036c61109474d1f6cef101d038f29d0678008d6c1b6f3ca208b",
+      "accept_browser_v2_c4.py": "39e6d155a3a71b87f0c161dfffaa77747fa7863b979e651ad80e9ad2d1835b9f",
+      "browser_v2_scheduler.py": "993548c22543060cdb7fa6f97e89f2e9113b7a50e91bb43e5d9c406bea924ab6",
+      "lingxi_webvoyager_v2_audit.py": "bae5f5335e0f75fc329572c07cd2abc5d3349743594f40df83282b8f4dce22b5"
+    },
+    "shared_v2_sidecar": false,
+    "browser_owner_isolation": "one Chrome/Profile/sidecar per conversation owner",
+    "final_evidence": {
+      "v2_observe_required": true,
+      "v2_screenshot_required": false,
+      "evidence_owner": "external_evaluator",
+      "window_capture_enabled": true,
+      "window_capture_backend": "macos_coregraphics_screencapture",
+      "binary_attachment_limitation": "Lingxi ToolEnd omits binary model attachments; the runner captures the matching visible Chrome window read-only after V2 visual verification."
+    },
+    "seed": 42,
+    "shuffle": false
+  },
+  "environment": {
+    "python": "3.12.13",
+    "platform": "macOS-26.4-arm64-arm-64bit",
+    "browser_use_python_package": null,
+    "adapter": "lingxi-webvoyager-v2-audit/2.0.0-single-acceptance-evidence-v1",
+    "lingxi_base_url": "http://127.0.0.1:18100",
+    "lingxi_worker_url": "http://127.0.0.1:18721"
+  },
+  "preflight": {
+    "health": {
+      "ok": true,
+      "worker": "lingxi-agent-worker",
+      "tools": [
+        "execute",
+        "check_command",
+        "send_input",
+        "read_file",
+        "write_file",
+        "write_file_stream",
+        "edit_file",
+        "ls",
+        "glob",
+        "grep",
+        "send_file",
+        "update_plan",
+        "write_todos",
+        "manage_scheduled_task",
+        "skill"
+      ]
+    },
+    "capability": {
+      "defaultEnabled": false,
+      "description": "网页访问、导航、阅读、点击与登录的首选能力；复用账号专属 Chrome，不要改用 browser-use-cli Skill 或电脑操作。",
+      "displayName": "浏览器操作 V2",
+      "editable": true,
+      "enabled": true,
+      "explicitEnabled": true,
+      "key": "browser_use_v2",
+      "toolNames": [
+        "browser_v2_session",
+        "browser_v2_tabs",
+        "browser_v2_navigate",
+        "browser_v2_observe",
+        "browser_v2_act",
+        "browser_v2_run",
+        "browser_v2_wait",
+        "browser_v2_screenshot",
+        "browser_v2_eval",
+        "browser_v2_capability"
+      ]
+    },
+    "model": {
+      "runtime": {
+        "api_base": "http://127.0.0.1:18100/v1/server/ai/llm/gw/v1",
+        "mcp_url": "http://127.0.0.1:18100/v1/mcp/lingxiclaw/default",
+        "access_base_url": "http://127.0.0.1:18100/v1",
+        "model": "ydy-kimi-K3",
+        "workdir": "/Users/REDACTED",
+        "db_path": "/Users/REDACTED/.lingxi/accounts/REDACTED_ACCOUNT/worker.db",
+        "max_turns": 256,
+        "context_window_tokens": 128000,
+        "max_run_duration_seconds": 2700,
+        "max_tool_calls": 192,
+        "command_timeout_seconds": 30,
+        "security_detection": {
+          "enabled": true,
+          "endpoint": "http://127.0.0.1:17688",
+          "mode": "block",
+          "scope": "all",
+          "timeout_seconds": 5.0,
+          "user_id_present": false
+        }
+      },
+      "catalog_entry": {
+        "allowedVoices": [],
+        "billing": "输入：8倍标准消耗 | 输出：40倍标准消耗",
+        "defaultVoice": "",
+        "desc": "百万上下文 + 视觉理解 + 编程/深度研究/多模态",
+        "desc_en": "Million-token context with vision; suited for coding, deep research and multimodal tasks.",
+        "extInfo": {
+          "cache_ratio_ciyuan": 2.5,
+          "compute_credit_ratio": "1:150",
+          "in_ratio_ciyuan": 25,
+          "limits": {
+            "max_input_tokens": 1000000,
+            "max_output_tokens": 1000000,
+            "max_thinking_tokens": 1000000
+          },
+          "model_format": "deepseek",
+          "out_ratio_ciyuan": 125,
+          "supports_images": true,
+          "thinking": {
+            "extra_body": {
+              "enable_thinking": true
+            }
+          }
+        },
+        "icon": "kimi",
+        "id": 69,
+        "modelName": "ydy-kimi-K3",
+        "modelType": "llm",
+        "name": "Kimi-K3(MoMA)",
+        "private": false,
+        "tags": ""
+      },
+      "catalog_model_count": 17
+    }
+  },
+  "formal_configuration": null,
+  "completed_at": "2026-11-23T22:10:49.728163+00:00",
+  "execution_summary": {
+    "cancelled": false,
+    "completed": 607,
+    "errors": 8,
+    "complete_final_evidence": 605,
+    "browser_budget_violations": 0,
+    "lingxi_api_requests": 615
+  }
+}

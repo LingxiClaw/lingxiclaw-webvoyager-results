@@ -1,0 +1,8 @@
+{
+  "systemName": "Lingxi AI Assistant",
+  "organization": "China Mobile (Hangzhou) Information Technology Co., Ltd (中移（杭州）信息技术有限公司)",
+  "scoreDisplay": "87.15%",
+  "scoreValue": 87.15,
+  "sourceUrl": "https://github.com/LingxiClaw/lingxiclaw-webvoyager-results/blob/webvoyager-kimi-k3-20261123/runs/kimi-k3-20261123/REPORT.md",
+  "notesShort": "Self-reported product result on 615 date-adjusted tasks, 28 excluded, with ydy-kimi-K3, a custom Doubao judge and seven successful retries after initial execution errors (529/615 initial, 536/615 final)."
+}
